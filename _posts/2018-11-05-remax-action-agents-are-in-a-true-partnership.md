@@ -19,7 +19,9 @@ youtube_code: f167Y1eKFoU
 
 {% include youtube.html %}
 
-<center>When we bring an agent onto our team, we are looking to form a true partnership. This is how we do it.</center>
+<center><em>When we bring an agent onto our team, we are looking to form a true partnership. This is how we do it.</em></center>
+
+&nbsp;
 
 When I’m having a conversation with someone who is looking to get involved with RE/MAX Action about how we work differently than other brokerages, **the main point I like to focus on is how we work together**.
 
