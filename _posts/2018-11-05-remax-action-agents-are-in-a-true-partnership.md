@@ -23,7 +23,7 @@ youtube_code: f167Y1eKFoU
 
 &nbsp;
 
-When I’m having a conversation with someone who is looking to get involved with RE/MAX Action about how we work differently than other brokerages, **the main point I like to focus on is how we work together**.
+When I’m having a conversation with someone about how RE/MAX Action works differently than other brokerages, **the main point I like to focus on is how we work together**.
 
 When you work here, you don’t work for me; you work for RE/MAX Action. We are looking to have a true partnership with each individual agent. A business partnership is only successful when both partners are giving 100% to the partnership and giving their highest and best effort to each other.
 
