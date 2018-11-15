@@ -21,7 +21,7 @@ youtube_code: D2ljE0mdLwc
 
 {% include youtube.html %}
 
-The support system we implement for our business partners focuses on three key areas.
+<center>The support system we implement for our business partners focuses on three key areas.</center>
 
 How do we support our business partners at RE/MAX Action?
 
