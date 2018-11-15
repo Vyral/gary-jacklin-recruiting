@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bringing Balance and Perspective to Your Business
+title: What Does the Support System at RE/MAX Action Look Like?
 date: 2018-11-15 00:00:00
 tags:
   - Transaction Management
@@ -23,7 +23,7 @@ youtube_code: D2ljE0mdLwc
 
 <center><em>The support system we implement for our business partners focuses on three key areas.</em></center>
 
-&nbsp;
+ 
 
 How do we support our business partners at RE/MAX Action?
 
