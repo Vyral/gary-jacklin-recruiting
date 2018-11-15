@@ -15,13 +15,15 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/gary-jacklin-ss-oct-2-no-play.jpg
 youtube_code: D2ljE0mdLwc
 ---
 
 {% include youtube.html %}
 
-<center>The support system we implement for our business partners focuses on three key areas.</center>
+<center><em>The support system we implement for our business partners focuses on three key areas.</em></center>
+
+&nbsp;
 
 How do we support our business partners at RE/MAX Action?
 
