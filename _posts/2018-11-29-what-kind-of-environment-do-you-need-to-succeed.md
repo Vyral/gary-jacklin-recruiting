@@ -22,7 +22,9 @@ youtube_code: CyRNuwzswhQ
 
 {% include youtube.html %}
 
-<center>There are two important reasons why we at RE/MAX Action are successful in our business—our agents and how we as a brokerage support those agents.</center>
+<center><em>There are two important reasons why we at RE/MAX Action are successful in our business&mdash;our agents and how we as a brokerage support those agents.</em></center>
+
+&nbsp;
 
 The real estate business is very simple, but it’s not always easy. Here are a few NAR statistics that explain what I mean:
 
