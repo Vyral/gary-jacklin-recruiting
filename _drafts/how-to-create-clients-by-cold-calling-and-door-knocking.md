@@ -17,7 +17,7 @@ youtube_code: lZoMFxD0MvY
 
 {% include youtube.html %}
 
-Here’s how to be proactive through cold calling and door knocking.
+<center>Here’s how to be proactive through cold calling and door knocking.</center>
 
 Our main objective in this business is to be proactive, and cold calling and door knocking are two ways we proactively find new clients in our database.
 
