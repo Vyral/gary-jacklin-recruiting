@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Create Clients by Cold Calling and Door Knocking
+title: How to Get Clients by Cold Calling and Door Knocking
 date: 2018-12-13 00:00:00
 tags:
   - Transaction Management
@@ -23,7 +23,7 @@ youtube_code: lZoMFxD0MvY
 
 Our main objective in this business is to be proactive, and cold calling and door knocking are two ways we proactively find new clients in our database.
 
-Our goal is to meet in person with our clients, and since our money comes from when we’re voice-to-voice with clients on the phone—which is how we get face to face—we need to have a good way to accomplish this initial contact. We can speak over the phone and set up an appointment to get face to face, or we can go right to the source and knock on their door.
+Our goal is to meet in person with our clients, and since our money comes from when we’re voice to voice with clients on the phone—which is how we get face to face—we need to have a good way to accomplish this initial contact. We can speak over the phone and set up an appointment to get face to face, or we can go right to the source and knock on their door.
 
 **Now, how do we set up our methods to make sure we can keep an effective work-life balance in our day-to-day schedules?** Here’s what I recommend:
 
