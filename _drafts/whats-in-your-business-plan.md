@@ -17,7 +17,7 @@ youtube_code: zno2KewMqmo
 
 {% include youtube.html %}
 
-It’s time to plan your 2019 business. Here’s where you should start.
+<center>It’s time to plan your 2019 business. Here’s where you should start.</center>
 
 I’m excited to talk about how to put a business plan together today. **The simplest, easiest way to start is to figure out the dollar amount that you need to live and cover all of your expenses**.
 
