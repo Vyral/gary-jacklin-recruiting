@@ -31,7 +31,7 @@ Next, you’ve got to time block your life. If you owned a retail business, you 
 
 {% include pullquote.html %}
 
-How many hours per week are you actually going to work? Once you block out your spiritual life, then your family life, you'll be left with at least 40 hours to work. Try to make evenings and weekends open because that’s when most people are going to be available for home showings and home for you to prospect to and be available for showings.
+How many hours per week are you actually going to work? Once you block out your spiritual life, then your family life, you'll be left with at least 40 hours to work. Try to make evenings and weekends open because that’s when most people are going to be available for home showings and home for you to prospect to.
 
 Be proactive, go out, grow relationships, and get voice to voice so you can get face to face. **If you stick to a plan like this, you'll be hitting your goal every year**.
 
