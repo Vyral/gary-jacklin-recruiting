@@ -21,7 +21,7 @@ youtube_code: zno2KewMqmo
 
 &nbsp;
 
-I’m excited to talk about how to put a business plan together today. **The simplest, easiest way to start is to figure out the dollar amount that you need to live and cover all of your expenses**.
+I’m excited to talk about how to put a business plan together today. **The simplest way to start is to figure out the dollar amount that you need to live and cover all of your expenses**.
 
 Once you have that figured out, you should make it your goal to double it. When you set a goal in your business plan, it has to be a realistic number. Once you’ve determined that goal, it’s pretty easy to figure out how many transactions you need to complete to reach that.
 
