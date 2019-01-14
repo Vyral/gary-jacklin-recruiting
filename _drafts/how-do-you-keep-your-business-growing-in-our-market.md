@@ -21,7 +21,7 @@ youtube_code: w2j_HAG-xMM
 
 {% include youtube.html %}
 
-How can you keep growing your business in a down market? There a couple of key points you need to remember.
+<center>How can you keep growing your business in a down market? There a couple of key points you need to remember.</center>
 
 With all the doom and gloom we’ve been hearing about our market lately, how is it that those of us who’ve been in the real estate industry as long as I have continued to grow our businesses?
 
