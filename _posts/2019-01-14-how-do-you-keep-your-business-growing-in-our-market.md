@@ -5,8 +5,8 @@ date: 2019-01-14 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  How can you keep growing your business in a down market? There a couple of key
-  points you need to remember.
+  How can you keep growing your business in a down market? There are a couple of
+  key points you need to remember.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+How+Do+You+Keep+Your+Business+Growing+in+Our+Market_.mp4
 pullquote: >-
@@ -21,11 +21,11 @@ youtube_code: w2j_HAG-xMM
 
 {% include youtube.html %}
 
-<center><em>How can you keep growing your business in a down market? There a couple of key points you need to remember.</em></center>
+<center><em>How can you keep growing your business in a down market? There are a couple of key points you need to remember.</em></center>
 
 &nbsp;
 
-With all the doom and gloom we’ve been hearing about our market lately, how is it that those of us who’ve been in the real estate industry as long as I have continued to grow our businesses?
+With all the doom and gloom we’ve been hearing about our market lately, how is it that those of us who’ve been in the real estate industry as long as I have continue to grow our businesses?
 
 We understand one essential truth: **Everybody needs a place to live**.
 
