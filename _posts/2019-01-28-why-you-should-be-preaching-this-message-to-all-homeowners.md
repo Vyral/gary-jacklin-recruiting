@@ -19,7 +19,9 @@ youtube_code: bp9x1Q-xOHo
 
 {% include youtube.html %}
 
-<center>There’s a huge opportunity in our market for a specific type of homeowner. Here’s how they can take advantage of a favorable market.</center>
+<center><em>There&rsquo;s a huge opportunity in our market for a specific type of homeowner. Here&rsquo;s how they can take advantage of a favorable market.</em></center>
+
+&nbsp;
 
 No matter what noise you’re hearing out there right now, there are a couple of facts that you need to know about our real estate market.
 
