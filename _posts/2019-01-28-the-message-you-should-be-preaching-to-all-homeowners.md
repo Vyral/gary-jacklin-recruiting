@@ -8,7 +8,7 @@ excerpt: >-
   There’s a huge opportunity in our market for a specific type of homeowner.
   Here’s how they can take advantage of a favorable market.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+Why+You+Should+Be+Preaching+This+Message+to+All+Homeowners.mp4
+  https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+The+Message+You+Should+Be+Preaching+to+All+Homeowners.mp4
 pullquote: You need to get this message out to these homeowners.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: bp9x1Q-xOHo
 
 <center><em>There&rsquo;s a huge opportunity in our market for a specific type of homeowner. Here&rsquo;s how they can take advantage of a favorable market.</em></center>
 
-&nbsp;
+ 
 
 No matter what noise you’re hearing out there in the media right now, there are a couple of facts that you need to know about our real estate market.
 
