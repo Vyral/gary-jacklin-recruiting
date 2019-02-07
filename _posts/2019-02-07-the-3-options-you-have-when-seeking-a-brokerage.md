@@ -21,7 +21,9 @@ youtube_code: g2e6HT0OALI
 
 {% include youtube.html %}
 
-<center>Today I want to talk about the different types of brokerages to consider when it comes to the choices you have in your real estate career.</center>
+<center><em>Today I want to talk about the different types of brokerages to consider when it comes to the choices you have in your real estate career.</em></center>
+
+&nbsp;
 
 If you’re at a point where you want to make a major change in your real estate career—and changing brokerages is always a major change—I think it’s important to understand the different models of brokerage that are out there. I’ve broken those down into three main models:
 
