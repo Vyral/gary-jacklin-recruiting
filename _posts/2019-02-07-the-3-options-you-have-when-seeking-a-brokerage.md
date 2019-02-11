@@ -25,15 +25,15 @@ youtube_code: g2e6HT0OALI
 
 &nbsp;
 
-If you’re at a point where you want to make a major change in your real estate career—and changing brokerages is always a major change—I think it’s important to understand the different models of brokerage that are out there. I’ve broken those down into three main models:
+If you’re at a point where you want to make a major change in your real estate career—and changing brokerages is always a major change—I think it’s important to understand the different brokerage models that are out there. I’ve broken those down into three main models:
 
 **1. The traditional model**. This model, which can be national, regional, or even mom-and-pop realty, works on some type of split. You’ll probably start out on a 50/50 split, which will increase based on how much you sell.
 
 **2. The “help you do nothing” model**. This is more or less a holding company. Yes, agents who work in this type of brokerage pay very low monthly fees and a small transaction fee when they close a property; however, the brokerages don’t offer much in the way of assistance, leaving agents to succeed or fail on their own. Those that are really serious about being a professional real estate salesperson understand that they’re actually just &nbsp;business owners; most of us need more help than you’ll get from this type of brokerage.
 
-**3. The hybrid model**. This type of brokerage is transaction-based. You’ll pay some sort of monthly fee, which goes towards the technology you’ll need to keep up with the four key areas of your business: lead generation, lead conversion, following up, and marketing.
+**3. The hybrid model**. This type of brokerage is transaction-based. You’ll pay some sort of monthly fee, which goes towards the technology you’ll need to keep up with the four key areas of your business: Lead generation, lead conversion, following up, and marketing.
 
-At RE/MAX Action, we work together as a team to keep you, the agent, doing what you do best: staying in front of buyers and sellers, growing those relationships, and instilling confidence in your abilities to help clients through the process of buying or selling. Your communication skills are really key to your success in closing transactions and continuing to grow and maintain those relationships you have with buyers and sellers.
+At RE/MAX Action, we work together as a team to keep you, the agent, doing what you do best: Staying in front of buyers and sellers, growing those relationships, and instilling confidence in your abilities to help clients through the process of buying or selling. Your communication skills are really key to your success in closing transactions and continuing to grow and maintain those relationships you have with buyers and sellers.
 
 {% include pullquote.html %}
 
