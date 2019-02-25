@@ -19,9 +19,11 @@ youtube_code: BNnrwLpqBfc
 
 {% include youtube.html %}
 
-<center>You can boost your business without hiring a new employee. Here’s how.</center>
+<center><em>You can boost your business without hiring a new employee. Here&rsquo;s how.</em></center>
 
-You’ve probably been told before that to take your career to the next level, **you need to hire a personal assistant**.&nbsp;
+&nbsp;
+
+You’ve probably been told before that to take your career to the next level, **you need to hire a personal assistant**.
 
 Basically, this would mean another person for you to be in charge of. First, you’d need to find them online or through some other outlet, but more importantly, you have to know what your process is and how to train them.
 
@@ -31,6 +33,6 @@ Basically, this would mean another person for you to be in charge of. First, you
 
 You know how these processes work, but what if instead of hiring your own personal assistant, you could simply send off a processing form detailing how you want the processes completed, and they’re done for you?
 
-That’s what we do at RE/MAX. We have a process, the technology, and people in place in order for you to grow your business. **Do what you do best, and leave the rest to us**.&nbsp;
+That’s what we do at RE/MAX. We have a process, the technology, and people in place in order for you to grow your business. **Do what you do best, and leave the rest to us**.
 
 If you’d like to increase your business with us, have any questions, or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
