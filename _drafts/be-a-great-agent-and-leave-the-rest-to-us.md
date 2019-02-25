@@ -19,7 +19,7 @@ youtube_code: BNnrwLpqBfc
 
 {% include youtube.html %}
 
-You can boost your business without hiring a new employee. Here’s how.
+<center>You can boost your business without hiring a new employee. Here’s how.</center>
 
 You’ve probably been told before that to take your career to the next level, **you need to hire a personal assistant**.&nbsp;
 
