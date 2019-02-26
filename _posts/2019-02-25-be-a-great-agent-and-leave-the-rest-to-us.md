@@ -31,7 +31,7 @@ Basically, this would mean another person for you to be in charge of. First, you
 
 {% include pullquote.html %}
 
-You know how these processes work, but what if instead of hiring your own personal assistant, you could simply send off a processing form detailing how you want the processes completed, and they’re done for you?
+You know how these processes work, but what if, instead of hiring your own personal assistant, you could simply send off a processing form detailing how you want the processes completed, and they’re done for you?
 
 That’s what we do at RE/MAX. We have a process, the technology, and people in place in order for you to grow your business. **Do what you do best, and leave the rest to us**.
 
