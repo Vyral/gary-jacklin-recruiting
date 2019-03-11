@@ -18,7 +18,7 @@ youtube_code: fUAkREtdTUc
 
 {% include youtube.html %}
 
-Over time, what has changed regarding homebuyers’ behavior in the market? Today I’ll discuss a trend we’ve noticed.
+<center>Over time, what has changed regarding homebuyers’ behavior in the market? Today I’ll discuss a trend we’ve noticed.</center>
 
 Homebuyers usually go through what I call a ‘browsing period’—a period of time in which they're just looking for information on homes, not necessarily to buy them straight away. This period can last anywhere from nine to 12 months, sometimes more or less.
 
