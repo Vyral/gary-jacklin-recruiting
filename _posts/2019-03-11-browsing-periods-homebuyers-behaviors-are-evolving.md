@@ -22,9 +22,9 @@ youtube_code: fUAkREtdTUc
 
 &nbsp;
 
-Homebuyers usually go through what I call a ‘browsing period’—a period of time in which they're just looking for information on homes, not necessarily to buy them straight away. This period can last anywhere from nine to 12 months, sometimes more or less.
+Homebuyers usually go through what I call a ‘browsing period’—a period of time in which they're just looking for information on homes, not necessarily to buy them straight away. This period can last anywhere from nine to 12 months, more or less.
 
-Think about buying homes in the old days, before the technology and the internet became almost universally accessible: **Buyers had browsing periods, but we browsed for homes using print advertising in magazines, newspapers, etc**. We would look at print ads to get an idea of what homes’ prices were; we certainly didn’t want to be hounded by a professional real estate salesperson. At the time, we were hesitant to make that phone call to learn about the information the listing agent didn’t include in the ad.
+Think about buying homes in the old days, before the internet became almost universally accessible: **Buyers had browsing periods, but we browsed for homes using print advertising in magazines, newspapers, etc**. We would look at print ads to get an idea of what homes’ prices were; we certainly didn’t want to be hounded by a professional real estate salesperson. At the time, we were hesitant to make that phone call to learn about the information the listing agent didn’t include in the ad.
 
 When we did get closer to the point of actually buying a home, we finally ended up making the call to the Realtor. Then what did the Realtor do? They knew that the prospect was looking to buy sometime in the next two days, two weeks, or two months. **After doing the browsing on their own, the buyer had come to a point where they were now a prospect, where they could determine what they were looking for, and how we were going to help them**.
 
