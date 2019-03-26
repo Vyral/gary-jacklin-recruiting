@@ -20,7 +20,7 @@ youtube_code: i-Gd55siOF0
 
 {% include youtube.html %}
 
-To maximize your efficiency and effectiveness as an agent, you need to have a strategy behind the technology you use.
+<center>To maximize your efficiency and effectiveness as an agent, you need to have a strategy behind the technology you use.</center>
 
 Here at RE/MAX Action, we’re known as technology pioneers, but sometimes, the use of technology in real estate is misunderstood.
 
