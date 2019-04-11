@@ -24,7 +24,7 @@ When it comes to creating an advertising campaign for our listings and open hous
 
 **First, we need to determine the “what.”** What are we going to advertise? Well, as I said, we’re advertising listings, as well as open houses for those listings.
 
-**Next, we identify the “where.”** Where are we going to advertise those listings? Right now, the main portals are Zillow, Trulia, and Realtor.com—they’re capturing our leads and selling them back to us. Additionally, Facebook is a great vehicle for advertising our listings and open houses.
+**Next, we identify the “where.”** Where are we going to advertise those listings? Right now, the main portals are [Zillow](https://www.zillow.com){: target="_blank"}, [Trulia](https://www.trulia.com/){: target="_blank"}, and [Realtor.com](https://www.realtor.com/){: target="_blank"}—they’re capturing our leads and selling them back to us. Additionally, [Facebook ](https://www.facebook.com){: target="_blank"}is a great vehicle for advertising our listings and open houses.
 
 {% include pullquote.html %}
 
