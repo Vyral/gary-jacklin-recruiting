@@ -18,7 +18,9 @@ youtube_code: M7aP-v4bIeQ
 
 {% include youtube.html %}
 
-<center>What advertising method has the best return on investment?</center>
+<center><em>What advertising method has the best return on investment?</em></center>
+
+&nbsp;
 
 When it comes to creating an advertising campaign for our listings and open houses, we need to identify what we’re advertising, where we’re placing those ads, and to whom we’re trying to market our listings.
 
