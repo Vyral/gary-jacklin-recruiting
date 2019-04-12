@@ -32,6 +32,6 @@ When it comes to creating an advertising campaign for our listings and open hous
 
 Lastly, and probably most importantly, **we need to figure out the “who.”** Through Facebook’s advertising filters, we can pick and choose our target market.
 
-As an end result of our efforts, the return on investment for us comes out to about one dollar per lead. That’s right—in exchange for advertising our listings and their accompanying open houses, we can get about $30 for 30 leads.
+As an end result of our efforts, the return on investment for us comes out to about one dollar per lead. That’s right—in exchange for advertising our listings and their accompanying open houses, we can get 30 leads for about $30.
 
-If you’re interested in learning more about how to get such a return on your investment for advertising your listings, feel free to reach out to me. We can have a more in-depth conversation on how to get more of a bang for your buck when it comes to your advertising methods. In the meantime, have a great day!
+If you’re interested in learning more about how to get such a return on your investment for advertising your listings, feel free to reach out to me. We can have a more in-depth conversation on how to get more of a bang for your buck when it comes to your advertising methods. In the meantime, have a great day\!
