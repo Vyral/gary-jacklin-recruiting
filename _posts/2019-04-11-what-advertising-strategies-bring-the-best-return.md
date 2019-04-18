@@ -5,7 +5,8 @@ date: 2019-04-11 00:00:00
 tags:
   - Listing Presentation
 excerpt: What Advertising Strategies Bring the Best Return?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+What+Advertising+Strategies+Bring+the+Best+Return_.mp4
 pullquote: >-
   As an end result of our efforts, the return on investment for us comes out to
   about one dollar per lead.
@@ -20,7 +21,7 @@ youtube_code: M7aP-v4bIeQ
 
 <center><em>What advertising method has the best return on investment?</em></center>
 
-&nbsp;
+ 
 
 When it comes to creating an advertising campaign for our listings and open houses, we need to identify what we’re advertising, where we’re placing those ads, and to whom we’re trying to market our listings.
 
