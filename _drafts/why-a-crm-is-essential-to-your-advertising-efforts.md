@@ -18,7 +18,7 @@ youtube_code: 9e4RpQ75q6U
 
 {% include youtube.html %}
 
-Advertising is an essential piece to the real estate puzzle in today’s market. Here’s a peek at what our strategy looks like.
+<center>Advertising is an essential piece to the real estate puzzle in today’s market. Here’s a peek at what our strategy looks like.</center>
 
 I want to continue the discussion we had in our last video: **[What’s the best return on investment when it comes to advertising?](https://joinrma.com/what-advertising-strategies-bring-the-best-return.html){: target="_blank"}** Last time, we talked about what to advertise, where to advertise, and who to advertise to. **The one thing we didn’t answer was how to create the ad and capture information from potential clients**. These are two factors that you need to figure in before implementing any kind of advertising.
 
