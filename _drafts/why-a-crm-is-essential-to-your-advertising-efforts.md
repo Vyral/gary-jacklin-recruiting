@@ -3,14 +3,17 @@ layout: post
 title: Why A CRM Is Essential to Your Advertising Efforts
 date: 2019-04-29 00:00:00
 tags:
-excerpt:
+  - Listing Presentation
+excerpt: >-
+  Advertising is an essential piece to the real estate puzzle in today’s market.
+  Here’s a peek at what our strategy looks like.
 enclosure:
-pullquote:
+pullquote: A CRM is something you need to have.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/4-25-ad-np.jpg
+youtube_code: 9e4RpQ75q6U
 ---
 
 {% include youtube.html %}
