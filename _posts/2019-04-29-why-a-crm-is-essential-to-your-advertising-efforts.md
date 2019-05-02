@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Advertising is an essential piece to the real estate puzzle in today’s market.
   Here’s a peek at what our strategy looks like.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+Why+a+CRM+Is+Essential+to+Your+Advertising+Efforts.mp4
 pullquote: A CRM is something you need to have.
 enclosure_type: video/mp4
 enclosure_time:
