@@ -16,7 +16,7 @@ youtube_code: 0EdKKyupc2c
 
 {% include youtube.html %}
 
-Today I’m going to go a little deeper on a topic we’ve discussed before: time blocking.
+<center>Today I’m going to go a little deeper on a topic we’ve discussed before: time blocking.</center>
 
 **In order to time block effectively, you’ll need to have a good calendar**. Which one should you use? From my experience, the best one to use is the one that you already use to schedule events.
 
