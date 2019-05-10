@@ -5,9 +5,8 @@ date: 2019-05-10 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  Time blocking is paramount to your success in the real estate business. Here
-  are a few of the things that you’ll need to set aside time for in your daily
-  schedule.
+  Here are a few of the things that you’ll need to set aside time for in your
+  daily schedule.
 enclosure:
 pullquote: 'In this business, you need to be available when everyone else is available.'
 enclosure_type: video/mp4
@@ -19,7 +18,9 @@ youtube_code: 0EdKKyupc2c
 
 {% include youtube.html %}
 
-<center>Time blocking is paramount to your success in the real estate business. Here are a few of the things that you’ll need to set aside time for in your daily schedule.</center>
+<center><em>Time blocking is paramount to your success in the real estate business. Here are a few of the things that you&rsquo;ll need to set aside time for in your daily schedule.</em></center>
+
+&nbsp;
 
 Today I’m going to go a little deeper on a topic we’ve discussed before: time blocking.
 
