@@ -19,7 +19,7 @@ youtube_code: 0EdKKyupc2c
 
 {% include youtube.html %}
 
-Time blocking is paramount to your success in the real estate business. Here are a few of the things that you’ll need to set aside time for in your daily schedule.
+<center>Time blocking is paramount to your success in the real estate business. Here are a few of the things that you’ll need to set aside time for in your daily schedule.</center>
 
 Today I’m going to go a little deeper on a topic we’ve discussed before: time blocking.
 
