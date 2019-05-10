@@ -4,7 +4,14 @@ title: How to Effectively Block Out Your Time
 date: 2019-05-10 00:00:00
 tags:
   - Transaction Management
-excerpt:
+excerpt: >-
+  Today I’m going to go a little deeper on a topic we’ve discussed before: time
+  blocking.  In order to time block effectively, you’ll need to have a good
+  calendar. Which one should you use? From my experience, the best one to use is
+  the one that you already use to schedule events,  Here’s what I do. First, I
+  schedule my events with God, whether it be church, volunteer work, etc. Then,
+  I schedule my family events within my calendar. Then, I start to schedule
+  those working hour activities so that I can fund those other parts of my life.
 enclosure:
 pullquote: 'In this business, you need to be available when everyone else is available.'
 enclosure_type: video/mp4
