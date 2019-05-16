@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are a few of the things that you’ll need to set aside time for in your
   daily schedule.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+How+to+Effectively+Block+Out+Your+Time.mp4
 pullquote: 'In this business, you need to be available when everyone else is available.'
 enclosure_type: video/mp4
 enclosure_time:
