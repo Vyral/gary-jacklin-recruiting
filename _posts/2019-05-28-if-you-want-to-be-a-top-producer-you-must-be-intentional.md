@@ -6,7 +6,7 @@ tags:
   - Lead Generation
 excerpt: >-
   If you want to become a top-producing real estate agent, you must learn to be
-  intentional. Today I’ll share what this means and why it’s important.
+  intentional.
 enclosure:
 pullquote: >-
   The key to being a top producer in real estate is to be intentional with every
