@@ -20,7 +20,9 @@ youtube_code: 3fb4UXJwjB0
 
 {% include youtube.html %}
 
-<center>If you want to become a top-producing real estate agent, you must learn to be intentional. Today I’ll share what this means and why it’s important.</center>
+<center><em>If you want to become a top-producing real estate agent, you must learn to be intentional. Today I&rsquo;ll share what this means and why it&rsquo;s important.</em></center>
+
+&nbsp;
 
 You’ve probably heard of the 80/20 rule as it relates to our industry. If you’re unfamiliar with this concept, it basically states that 80% of agents in this business only handle 20% of all deals. The truth is that only a small portion of agents are responsible for the majority of transactions. **But why is this the case?**
 
