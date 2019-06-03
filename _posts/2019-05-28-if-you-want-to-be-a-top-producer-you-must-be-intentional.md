@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to become a top-producing real estate agent, you must learn to be
   intentional.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+If+You+Want+to+Be+a+Top+Producer%2C+You+Must+Be+Intentional.mp4
 pullquote: >-
   The key to being a top producer in real estate is to be intentional with every
   action you take.
