@@ -20,7 +20,9 @@ youtube_code: JHBIFS9sfQc
 
 {% include youtube.html %}
 
-<center>Your database can be a huge source of business and referrals if you nurture it properly. Here’s what I recommend.</center>
+<center><em>Your database can be a huge source of business and referrals if you nurture it properly. Here&rsquo;s what I recommend.</em></center>
+
+&nbsp;
 
 I’ve got two numbers for you: 24 and ½. What does this mean? Well, if you take the number 24 and cut it in half, you have 12. If you cut that in half, you have 6. If you cut that in half, you have 3. **What I’m really talking about here with these numbers is how often you should contact your database**. It’s a common topic of discussion amongst agents and a question I’m asked all the time.
 
