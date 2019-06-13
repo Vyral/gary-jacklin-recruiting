@@ -20,9 +20,9 @@ youtube_code: JHBIFS9sfQc
 
 {% include youtube.html %}
 
-Your database can be a huge source of business and referrals if you nurture it properly. Here’s what I recommend.
+<center>Your database can be a huge source of business and referrals if you nurture it properly. Here’s what I recommend.</center>
 
-I’ve got two numbers for you: 24 and ½. What does this mean? Well, if you take the number 24 and cut it in half, you have 12. If you cut that in half, you have 6. If you cut that in half, you have 3. **What I’m really talking about here with these numbers is how often you should contact your database**. It’s a common topic of discussion amongst agents and &nbsp;a question I’m asked all the time.
+I’ve got two numbers for you: 24 and ½. What does this mean? Well, if you take the number 24 and cut it in half, you have 12. If you cut that in half, you have 6. If you cut that in half, you have 3. **What I’m really talking about here with these numbers is how often you should contact your database**. It’s a common topic of discussion amongst agents and a question I’m asked all the time.
 
 In your database, remember that your main goal is growing or maintaining relationships. It’s always important to think about what everyone in your database would like and what adds value to them. **Housing and other real estate information is something that will always have value to someone in your database**.
 
