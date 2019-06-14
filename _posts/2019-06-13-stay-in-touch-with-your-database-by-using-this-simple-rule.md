@@ -30,6 +30,6 @@ In your database, remember that your main goal is growing or maintaining relatio
 
 {% include pullquote.html %}
 
-So, how do these numbers fit in? Well, first, you should mail or email them twice a month, which equals 24 times per year. 12 is the amount of times you should call or text each person throughout the year. 6 is a reminder to call them at least six times per year, then finally the 3 means to do something else for your entire database three times per year. **Put all these together, and you have the right tools to nurture and strengthen your database**.
+So, how do these numbers fit in? Well, first, you should mail or email them twice a month, which equals 24 times per year. 12 is the number of times you should call or text each person throughout the year. 6 is a reminder to call them at least six times per year, then finally the 3 means to do something else for your entire database three times per year. **Put all these together, and you have the right tools to nurture and strengthen your database**.
 
-If you have any questions for us or want to learn a little bit more about how we use these numbers and touches to our advantage. don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for us or want to learn a little bit more about how we use these numbers and touches to our advantage, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
