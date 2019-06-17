@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your database can be a huge source of business and referrals if you nurture it
   properly. Here’s what I recommend.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Chicagoland+Real+Estate+-+Stay+in+Touch+With+Your+Database+By+Using+This+Simple+Rule.mp4
 pullquote: >-
   It’s always important to think about what information will add value to your
   relationships.
