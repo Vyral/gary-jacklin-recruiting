@@ -18,7 +18,9 @@ youtube_code: bV4OTKTYCLE
 
 {% include youtube.html %}
 
-<center>What does good communication with your database look like? Let’s discuss.</center>
+<center><em>What does good communication with your database look like? Let&rsquo;s discuss.</em></center>
+
+&nbsp;
 
 In our <u><a target="_blank" href="https://joinrma.com/stay-in-touch-with-your-database-by-using-this-simple-rule.html">last message</a></u>, we spoke about when you should reach out to your database. This time, we’re going to cover what content you should offer and, really, why.
 
