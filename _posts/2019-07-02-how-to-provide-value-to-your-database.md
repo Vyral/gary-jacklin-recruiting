@@ -5,7 +5,8 @@ date: 2019-07-02 00:00:00
 tags:
   - Lead Conversion
 excerpt: What does good communication with your database look like? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/How+to+Provide+Value+to+Your+Database.mp4
 pullquote: >-
   The reason real estate professionals stay in touch with our database is to
   build and maintain relationships.
