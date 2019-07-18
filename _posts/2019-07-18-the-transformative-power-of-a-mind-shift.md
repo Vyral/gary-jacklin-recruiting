@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: >-
   Shifting your mindset from “I can’t” to “How can I?” will put you on a path to
-  greater success in your business. Keep reading to find out how it’s done.
+  greater success in your business.
 enclosure:
 pullquote: >-
   The bottom line is abandoning “I can’t” and embracing “How can I?” is simple
