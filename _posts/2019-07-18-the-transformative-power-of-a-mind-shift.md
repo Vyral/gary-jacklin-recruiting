@@ -20,7 +20,9 @@ youtube_code: Iii17k3pesA
 
 {% include youtube.html %}
 
-<center>Shifting your mindset from “I can’t” to “How can I?” will put you on a path to greater success in your business. Keep reading to find out how it’s done.</center>
+<center><em>Shifting your mindset from &ldquo;I can&rsquo;t&rdquo; to &ldquo;How can I?&rdquo; will put you on a path to greater success in your business. Keep reading to find out how it&rsquo;s done.</em></center>
+
+&nbsp;
 
 I’m sure you’ve heard all about the importance of your mindset in this business from other trainers and speakers. I’ve been thinking about this myself lately, so today I’d like to illuminate **one of the greatest “mind shifts”** that I’ve put into practice in my life and that I’ve stressed to my agents as well.
 
