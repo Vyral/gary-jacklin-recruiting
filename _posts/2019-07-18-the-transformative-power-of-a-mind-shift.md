@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Shifting your mindset from “I can’t” to “How can I?” will put you on a path to
   greater success in your business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/The+Transformative+Power+of+a+Mind+Shift.mp4
 pullquote: >-
   The bottom line is abandoning “I can’t” and embracing “How can I?” is simple
   to say, but takes meaningful action to implement.
