@@ -21,7 +21,9 @@ youtube_code: ZLlFDbJXc_g
 
 {% include youtube.html %}
 
-<center>Today marks the first part of a four-series in which I’ll discuss tips to help with lead generation, conversion, follow-up, and marketing. We’ll begin with lead generation.</center>
+<center><em>Today marks the first part of a four-series in which I&rsquo;ll discuss tips to help with lead generation, conversion, follow-up, and marketing. We&rsquo;ll begin with lead generation.</em></center>
+
+&nbsp;
 
 Oftentimes, all we get from a potential lead is a simple email. At that stage, they’re not yet even a lead, but rather just a suspect. **In order for them to actually become a lead, you need to register them in your database**—ask them for a name, phone number, and email address. In the age of the internet, why do you need their phone number? Well, nowadays, everyone has a cell phone, meaning you’ll be able to reach them all day any day.
 
