@@ -6,8 +6,7 @@ tags:
   - Lead Generation
 excerpt: >-
   Today marks the first part of a four-series in which I’ll discuss tips to help
-  with lead generation, conversion, follow-up, and marketing. We’ll begin with
-  lead generation.
+  with lead generation, conversion, follow-up, and more!
 enclosure:
 pullquote: >-
   Your suspects can qualify themselves at a deeper level when you ask them to
