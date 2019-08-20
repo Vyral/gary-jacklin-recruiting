@@ -20,7 +20,7 @@ youtube_code: ZLlFDbJXc_g
 
 {% include youtube.html %}
 
-<center><em>Today marks the first part of a four-series in which I&rsquo;ll discuss tips to help with lead generation, conversion, follow-up, and marketing. We&rsquo;ll begin with lead generation.</em></center>
+<center>Today marks the first part of a four-series in which I&rsquo;ll discuss tips to help with lead generation, conversion, follow-up, and marketing. We&rsquo;ll begin with lead generation.</center>
 
 &nbsp;
 
