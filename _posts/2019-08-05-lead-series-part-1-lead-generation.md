@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today marks the first part of a four-series in which I’ll discuss tips to help
   with lead generation, conversion, follow-up, and more!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Lead+Series%2C+Part+1-+Lead+Generation.mp4
 pullquote: >-
   Your suspects can qualify themselves at a deeper level when you ask them to
   register in your database.
