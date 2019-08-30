@@ -20,7 +20,9 @@ youtube_code: N-pw-Hi4KAU
 
 {% include youtube.html %}
 
-<center>If you aren’t making as much money as you’d like to be, follow this simple strategy.</center>
+<center><em>If you aren&rsquo;t making as much money as you&rsquo;d like to be, follow this simple strategy.</em></center>
+
+&nbsp;
 
 If you want to make more money in your career, there are several steps you’ll need to take. Of all of these steps, though, **the most critical is to have a plan**.
 
