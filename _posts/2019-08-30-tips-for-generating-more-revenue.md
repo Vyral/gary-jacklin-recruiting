@@ -32,6 +32,6 @@ You may be wondering where I came up with these figures. And, simply put, **they
 
 {% include pullquote.html %}
 
-The question you must ask yourself is this: Are you where you want to be financially? If not, then implementing the simple strategy I’ve described today can make all the difference.
+The question you must ask yourself is this: **Are you where you want to be financially?** If not, then implementing the simple strategy I’ve described today can make all the difference.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
