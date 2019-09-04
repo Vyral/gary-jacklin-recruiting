@@ -28,7 +28,7 @@ If you want to make more money in your career, there are several steps you’ll 
 
 Trying to reach a goal without having a plan for doing so is about as effective as making a cake without any ingredients. That is to say, it’s just not possible. This goal can be as simple as having four new real estate conversations, five days a week every week for the next 12 months. Doing this will all but guarantee that you earn an extra $60,000 in revenue in the year ahead. And if you want to earn more than that, your plan will, of course, need to reflect that.
 
-You may be wondering where I came up with these figures. And, simply put, **they come from real-world examples that have been pulled from the experiences of thousands of agents**. The studies don’t lie—the more dials you make, the more conversations you have. The more conversations you have, the more appointments you get. The more appointments you get, the more listings you get. And, of course, the more listings you get, the more deals you’ll close. It all comes back to your bottom line.
+You may be wondering where I came up with these figures. Simply put, **they come from real-world examples that have been pulled from the experiences of thousands of agents**. The studies don’t lie—the more dials you make, the more conversations you have. The more conversations you have, the more appointments you get. The more appointments you get, the more listings you get. And, of course, the more listings you get, the more deals you’ll close. It all comes back to your bottom line.
 
 {% include pullquote.html %}
 
