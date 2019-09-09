@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/8-29---gary-jacklin---yt.jpg
-youtube_code: N-pw-Hi4KAU
+youtube_code: JkPVse7UbN0
 ---
 
 {% include youtube.html %}
