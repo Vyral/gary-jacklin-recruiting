@@ -33,7 +33,7 @@ client:
   market: Chicagoland
   brand: RE/MAX Action
   brokerage:
-  address: '1550 Maple Ave<br>Lisle, IL 60532'
+  address: 'Corporate Office<br>1550 Maple Ave<br>Lisle, IL 60532'
   phone: (630) 638-2600
   phone_type:
   phone2:
