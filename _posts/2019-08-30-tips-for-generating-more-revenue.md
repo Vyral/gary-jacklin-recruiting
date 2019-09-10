@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you aren’t making as much money as you’d like to be, follow this simple
   strategy.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Tips+for+Generating+More+Revenue.mp4
 pullquote: >-
   Implementing the simple strategy I’ve described today can make all the
   difference.
