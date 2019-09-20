@@ -20,7 +20,9 @@ youtube_code: zUHXxJWVfYM
 
 {% include youtube.html %}
 
-<center>If you want to succeed in real estate sales, you’ve got to master the basics. Here’s why.</center>
+<center><em>If you want to succeed in real estate sales, you&rsquo;ve got to master the basics. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 Whenever I think about real estate sales, I’m reminded of another one of my life’s passions: music.
 
