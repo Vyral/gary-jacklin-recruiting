@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to succeed in real estate sales, you’ve got to master the basics.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/The+Mastery+of+the+Basics.mp4
 pullquote: >-
   Over time, things will get easier—but that doesn’t mean you should stop
   practicing.
