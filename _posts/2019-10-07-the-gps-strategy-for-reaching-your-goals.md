@@ -5,8 +5,8 @@ date: 2019-10-07 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  If you’ve set a goal but aren’t anywhere close to reaching, the GPS strategy
-  can help you.
+  If you’ve set a goal but aren’t anywhere close to reaching it, the GPS
+  strategy can help you.
 enclosure:
 pullquote: >-
   Ask yourself why you are where you are and how you can go where you want to
@@ -20,7 +20,7 @@ youtube_code: O54Na9q71cM
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;ve set a goal but aren&rsquo;t anywhere close to reaching, the GPS strategy can help you.</em></center>
+<center><em>If you&rsquo;ve set a goal but aren&rsquo;t anywhere close to reaching it, the GPS strategy can help you.</em></center>
 
 &nbsp;
 
