@@ -20,7 +20,9 @@ youtube_code: O54Na9q71cM
 
 {% include youtube.html %}
 
-<center>If you’ve set a goal but aren’t anywhere close to reaching, the GPS strategy can help you.</center>
+<center><em>If you&rsquo;ve set a goal but aren&rsquo;t anywhere close to reaching, the GPS strategy can help you.</em></center>
+
+&nbsp;
 
 Where are you regarding your goals?
 
