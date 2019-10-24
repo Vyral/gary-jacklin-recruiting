@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’ve set a goal but aren’t anywhere close to reaching it, the GPS
   strategy can help you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/The+GPS+Strategy+for+Reaching+Your+Goals.mp4
 pullquote: >-
   Ask yourself why you are where you are and how you can go where you want to
   be.
