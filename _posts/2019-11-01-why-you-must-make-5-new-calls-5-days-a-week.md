@@ -20,7 +20,9 @@ youtube_code: qseQJzOl940
 
 {% include youtube.html %}
 
-<center>How can having five additional conversations with new leads five times a week impact your bottom line?</center>
+<center><em>How can having five additional conversations with new leads five times a week impact your bottom line?</em></center>
+
+&nbsp;
 
 Numbers may not be everyone’s favorite subject, but the truth is that understanding and leveraging numbers is the key to successful real estate business. I’ve touched on this before, but let me explain what I mean, again.
 
