@@ -24,7 +24,7 @@ youtube_code: qseQJzOl940
 
 &nbsp;
 
-Numbers may not be everyone’s favorite subject, but the truth is that understanding and leveraging numbers is the key to successful real estate business. I’ve touched on this before, but let me explain what I mean, again.
+Numbers may not be everyone’s favorite subject, but the truth is that understanding and leveraging numbers is the key to running a successful real estate business. I’ve touched on this before, but let me explain what I mean, again.
 
 If you want to see a higher number of conversions, you need to make a higher number of calls. Thankfully, you don’t have to go to extremes for this idea to work.
 
