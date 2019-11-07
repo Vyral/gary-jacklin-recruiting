@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How can having five additional conversations with new leads five times a week
   impact your bottom line?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Why+You+Must+Make+5+New+Calls+5+Days+a+Week.mp4
 pullquote: >-
   Having just a few more conversations each week will make a huge difference to
   your bottom line.
