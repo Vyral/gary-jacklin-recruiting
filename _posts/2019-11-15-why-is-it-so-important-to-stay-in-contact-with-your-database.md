@@ -18,7 +18,7 @@ youtube_code: 9DsWv9Ip2NE
 
 {% include youtube.html %}
 
-<center><em>Your database can be a rich source of business if you keep in contact. Here’s how we do that at RE/MAX Action.</em></center>
+<center><em>Your database can be a rich source of business if you keep in contact. Here&rsquo;s how we do that at RE/MAX Action.</em></center>
 
 <br>Today’s topic is a fairly simple concept, but one that can be very effective in today’s age.
 
