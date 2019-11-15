@@ -18,9 +18,9 @@ youtube_code: 9DsWv9Ip2NE
 
 {% include youtube.html %}
 
-Your database can be a rich source of business if you keep in contact. Here’s how we do that at RE/MAX Action.
+<center><em>Your database can be a rich source of business if you keep in contact. Here’s how we do that at RE/MAX Action.</em></center>
 
-Today’s topic is a fairly simple concept, but one that can be very effective in today’s age.
+<br>Today’s topic is a fairly simple concept, but one that can be very effective in today’s age.
 
 Every real estate agent out there knows people. Whether it’s your family and friends, or past clients and other professional contacts. All of those people live somewhere. The majority of them own their own home. **Just by staying in touch with these people, you’ll gain trust in your relationship to hopefully help them with future moves**.
 
