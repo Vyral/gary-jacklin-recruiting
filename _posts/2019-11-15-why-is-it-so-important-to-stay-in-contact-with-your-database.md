@@ -22,7 +22,7 @@ youtube_code: 9DsWv9Ip2NE
 
 <br>Today’s topic is a fairly simple concept, but one that can be very effective in today’s age.
 
-Every real estate agent out there knows people. Whether it’s your family and friends, or past clients and other professional contacts. All of those people live somewhere. The majority of them own their own home. **Just by staying in touch with these people, you’ll gain trust in your relationship to hopefully help them with future moves**.
+Every real estate agent out there knows people. Whether it’s your family and friends, or past clients and other professional contacts; all of those people live somewhere. The majority of them own their own homes. **Just by staying in touch with these people, you’ll gain trust in your relationship to hopefully help them with future moves**.
 
 For homeowners who are looking to sell, there are really two transactions in one that you can help them with. They need to sell their home first before they buy. **Why not provide them with valuable and effective information, such as how much their home is worth?** It’s really that simple.
 
