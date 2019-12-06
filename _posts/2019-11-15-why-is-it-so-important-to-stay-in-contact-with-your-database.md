@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your database can be a rich source of business if you keep in contact. Here’s
   how we do that at RE/MAX Action.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Why+You+Must+Make+5+New+Calls+5+Days+a+Week.mp4
 pullquote: There’s more than enough business to go around if you know how to find it.
 enclosure_type: video/mp4
 enclosure_time:
