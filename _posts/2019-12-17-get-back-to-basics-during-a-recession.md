@@ -18,7 +18,7 @@ youtube_code: FsLxTVeb0rE
 
 {% include youtube.html %}
 
-<center><em>Today I’ll explain what I meant when I told clients, “Yes, there’s a recession, but I just chose not to participate.”</em></center>
+<center><em>Today I&rsquo;ll explain what I meant when I told clients, &ldquo;Yes, there&rsquo;s a recession, but I just chose not to participate.&rdquo;</em></center>
 
 <br>I don’t know about you, but I’m hearing an overwhelming amount of noise out there about a recession. It’s important to recognize in times like these that, for any market, fear is a greater motivator than the opportunity gained.
 
