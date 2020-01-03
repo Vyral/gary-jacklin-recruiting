@@ -18,7 +18,9 @@ youtube_code: KN0cR1085M0
 
 {% include youtube.html %}
 
-There’s a lot of worry out there about computers taking away our jobs as real estate agents. It’s true that those agents who do not embrace technology will be replaced. **Not by technology, but by those agents that do embrace the technology**. Our jobs are completely based upon human interaction, and this technology helps us do our jobs more effectively and efficiently.
+<center><em>New technology won’t replace real estate agents, but those agents who don’t embrace tech will be left in the dust of those who do.</em></center>
+
+<br>There’s a lot of worry out there about computers taking away our jobs as real estate agents. It’s true that those agents who do not embrace technology will be replaced. **Not by technology, but by those agents that do embrace the technology**. Our jobs are completely based upon human interaction, and this technology helps us do our jobs more effectively and efficiently.
 
 The true focus of everything we do is getting voice to voice interaction to set appointments and face to face interaction to help get a home sold or purchased. Technology will never be able to do that. **It will help the process, but it can’t replace a human expert**.
 
