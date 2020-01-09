@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   New technology won’t replace real estate agents, but those agents who don’t
   embrace tech will be left in the dust of those who do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Why+Do+Agents+Need+to+Embrace+Technology_.mp4
 pullquote: 'People were scared about the internet at first, too.'
 enclosure_type: video/mp4
 enclosure_time:
