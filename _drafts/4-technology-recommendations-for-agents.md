@@ -22,7 +22,9 @@ youtube_code: q3H1d5KQEjg
 
 {% include youtube.html %}
 
-Today’s video is a follow-up to <u><a target="_blank" href="https://joinrma.com/why-do-agents-need-to-embrace-technology.html">my previous one</a></u>, in which I made the bold statement that agents who don’t embrace new technology will be left in the dust of ones who do.
+<center><em>Here are some of my personal recommendations for apps and platforms to incorporate into your process.</em></center>
+
+<br>Today’s video is a follow-up to <u><a target="_blank" href="https://joinrma.com/why-do-agents-need-to-embrace-technology.html">my previous one</a></u>, in which I made the bold statement that agents who don’t embrace new technology will be left in the dust of ones who do.
 
 That video prompted a lot of questions, and some folks want me to be specific as to what types of tech agents should use. What tools work the best? Let’s once again look at the four focus areas of any successful agent:
 
