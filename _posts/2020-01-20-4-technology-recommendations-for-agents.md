@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Here are some of my recommendations for apps and platforms to incorporate into
   your process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/4+Technology+Recommendations+for+Agents.mp4
 pullquote: >-
   Remember, our goal is to establish voice-to-voice communication so we can get
   face-to-face interaction.
