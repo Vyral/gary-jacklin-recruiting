@@ -16,7 +16,9 @@ youtube_code: ufhWyGX_9GA
 
 {% include youtube.html %}
 
-During this time, it’s always good to look at where you’ve been the previous year and where you’re trending this year. It’s called goal setting.
+<center><em>If you want to set a goal and achieve it, write that goal down.</em></center>
+
+<br>During this time, it’s always good to look at where you’ve been the previous year and where you’re trending this year. It’s called goal setting.
 
 The most important tip I can share with you when it comes to goal setting is to **have something in writing**. This way, you can refer back to those goals. I’ve found that people sometimes hesitate writing goals down because that means you actually have to *do* it.
 
