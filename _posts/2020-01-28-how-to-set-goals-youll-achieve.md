@@ -18,9 +18,9 @@ youtube_code: ufhWyGX_9GA
 
 <center><em>If you want to set a goal and achieve it, write that goal down.</em></center>
 
-<br>During this time, it’s always good to look at where you’ve been the previous year and where you’re going this year. It’s called goal setting.
+<br>When a new year begins, it’s always good to look at where you’ve been the previous year and where you’re going this year. It’s called goal-setting.
 
-The most important tip I can share with you when it comes to goal setting is to **have something in writing**. This way, you can refer back to those goals. I’ve found that people sometimes hesitate writing goals down because that means you actually have to *do* it.
+**The most important tip I can share with you when it comes to goal setting is to have something in writing**. This way, you can refer back to those goals. I’ve found that people sometimes hesitate writing goals down because that means you actually have to *do* it.
 
 If you put it in writing that you want to earn $150,000 over the next 12 months, you have to figure out how to get there. To get started, I suggest breaking down your activities. It all boils down to transactions—work backward from there and plan everything in terms of monthly, weekly, and daily goals. Which activities do you need to do so that you accomplish your overarching goal?
 
