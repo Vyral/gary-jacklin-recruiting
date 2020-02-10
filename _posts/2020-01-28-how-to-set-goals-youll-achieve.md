@@ -5,7 +5,8 @@ date: 2020-01-28 00:00:00
 tags:
   - Transaction Management
 excerpt: 'If you want to set a goal and achieve it, write that goal down.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/How+to+Set+Goals+Youll+Achieve.mp4
 pullquote: Write your goals down now and make the next 12 months your best months ever.
 enclosure_type: video/mp4
 enclosure_time:
