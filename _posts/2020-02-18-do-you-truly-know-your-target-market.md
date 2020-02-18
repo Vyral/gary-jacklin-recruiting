@@ -21,7 +21,7 @@ youtube_code: lDUrgctaZHs
 
 {% include youtube.html %}
 
-<center><em>The deeper you know your target market, the greater the quantity of leads you’ll generate.</em></center>
+<center><em>The deeper you know your target market, the greater the quantity of leads you&rsquo;ll generate.</em></center>
 
 <br>To highlight the importance of knowing your target market, I’ll summarize a recent conversation I had with an agent who didn’t invest in social media because she was targeting a senior-age market.
 
