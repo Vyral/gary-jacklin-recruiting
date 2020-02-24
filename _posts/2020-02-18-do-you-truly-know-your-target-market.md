@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   The deeper you know your target market, the greater the number of leads you’ll
   generate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/Do+You+Truly+Know+Your+Target+Market_.mp4
 pullquote: >-
   Using Facebook can help you better understand and connect with your real
   target market.
