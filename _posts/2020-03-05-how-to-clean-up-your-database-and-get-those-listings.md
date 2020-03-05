@@ -40,6 +40,6 @@ Once you’ve selected your CRM, you’ll then update the contact information of
 
 Next, **update them with an automated market value of their homes**. If they’re buying, update them on what they might be looking for.
 
-When a conversation takes place and the person on the other end of the line asks you a question, that’s your opportunity. They’ve given you permission to talk about real estate. As you have your conversations, add some notes to their contact information. Most importantly, remember that everyone lives somewhere, so if a person owns their home, send them a monthly valuation of it. The whole objective here is to get them to reach out to you. Also, find out when they plan on moving.
+When a conversation takes place and the person on the other end of the line asks you a question, that’s your opportunity. They’ve given you permission to talk about real estate. As you have your conversations, **add some notes to their contact information**. Most importantly, remember that everyone lives somewhere, so if a person owns their home, send them a monthly valuation of it. The whole objective here is to get them to reach out to you. Also, find out when they plan on moving.
 
 Stay tuned for my next video where I talk about what to do next. In the meantime, if you have any questions, don’t hesitate to reach out to me. I’d love to speak with you.
