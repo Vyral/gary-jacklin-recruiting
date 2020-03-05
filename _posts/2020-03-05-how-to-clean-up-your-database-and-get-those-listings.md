@@ -20,7 +20,7 @@ youtube_code: 1ffipPcCpPA
 
 {% include youtube.html %}
 
-<center><em>Here’s how you clean up your database to get more listings.</em></center>
+<center><em>Here&rsquo;s how you clean up your database to get more listings.</em></center>
 
 <br>Any time of year is a great time to get listings. As the old saying goes, “You have to get busy to be busy.” As an agent, though, you need to be proactive and intentional about it.
 
