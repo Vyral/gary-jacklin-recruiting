@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Here’s how you clean up your database to get more listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/How+to+Clean+Up+Your+Database+and+Get+Those+Listings.mp4
 pullquote: >-
   When a conversation takes place and the person on the other end of the line
   asks you a question, that’s your opportunity.
