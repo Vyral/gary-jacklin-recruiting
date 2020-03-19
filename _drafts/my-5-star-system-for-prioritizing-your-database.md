@@ -17,7 +17,9 @@ youtube_code: anKoFSJq6pc
 
 {% include youtube.html %}
 
-Advances in technology have supposedly made us agents more organized and efficient, right? Well, I’ve found that there’s a lot of confusion regarding who to call and when to call them. Of course, I’m referring to your database. Every agent has a database, and hopefully, you have one that’s integrated with the MLS, which is what you want.
+<center><em>To organize your database, you can use my five-star system.</em></center>
+
+<br>Advances in technology have supposedly made us agents more organized and efficient, right? Well, I’ve found that there’s a lot of confusion regarding who to call and when to call them. Of course, I’m referring to your database. Every agent has a database, and hopefully, you have one that’s integrated with the MLS, which is what you want.
 
 The thing is, to keep in touch with these people, we know that the objective is to get voice to voice so you can then get face to face. Whether it’s a listing or buyer appointment, that face-to-face meeting will let you know whether your would-be client is motivated, qualified, and loyal. So **how do you prioritize your database?** Follow along in the video above as I answer that question in its entirety.
 
