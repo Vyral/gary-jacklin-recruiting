@@ -25,6 +25,6 @@ The thing is, to keep in touch with these people, we know that the objective is 
 
 **For your convenience, I’ve provided timestamps of the conversation:**
 
-1:34 - Prioritizing your prospecting session through my five-star system<br>2:09 - ⭐: Just keeping in touch&nbsp;<br>2:30 - ⭐⭐: Calling every week<br>3:32 - ⭐⭐⭐: Set an appointment<br>4:01 - ⭐⭐⭐⭐: Talking face to face<br>4:31 - ⭐⭐⭐⭐⭐: Actively working with them<br>5:24 - Where do they go after the deal closes?<br>5:44 - Wrapping up today’s topic
+1:34 - Prioritizing your prospecting session through my five-star system<br>2:09 - ⭐: Just keeping in touch&nbsp;<br>2:30 - ⭐⭐: Calling every week<br>3:32 - ⭐⭐⭐: Setting an appointment<br>4:01 - ⭐⭐⭐⭐: Talking face to face<br>4:31 - ⭐⭐⭐⭐⭐: Actively working with them<br>5:24 - Where do they go after the deal closes?<br>5:44 - Wrapping up today’s topic
 
 As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’m happy to help.
