@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Lead Conversion
 excerpt: 'To organize your database, you can use my five-star system.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/My+5-Star+System+for+Prioritizing+Your+Database.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
