@@ -7,8 +7,8 @@ tags:
   - Lead Conversion
   - Transaction Management
 excerpt: >-
-  Don’t lay off the gas when it comes to your business. There are plenty of
-  things you can doing right now to see yourself through this period.
+  There are plenty of things you can doing right now to see yourself through
+  this period.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
