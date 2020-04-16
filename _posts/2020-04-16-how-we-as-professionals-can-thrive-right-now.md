@@ -23,3 +23,5 @@ youtube_code: W5GbF5EfVQg
 <center><em>Don&rsquo;t lay off the gas when it comes to your business. There are plenty of things you can doing right now to see yourself through this period.</em></center>
 
 <br>I find it helpful to approach these unprecedented times the same way we’d address the last quarter of the year. Think about it: So many agents take that last chunk of the year off, starting around Thanksgiving, and their business comes to halt. They let the natural market slowdown during the holidays discourage them, but just as I caution those agents to never stop filling their pipelines, **I urge agents now to keep reaching out to people**. The key, of course, is to not blatantly push anything; we’re just touching base to genuinely ask how folks are doing, and if we can be of assistance.
+
+If you'd like to participate in a Zoom session with us, please reach out. We're happy to help.
