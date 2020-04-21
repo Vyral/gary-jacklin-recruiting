@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   There are plenty of things you can doing right now to see yourself through
   this period.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/How+We+as+Professionals+Can+Thrive+Right+Now.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
