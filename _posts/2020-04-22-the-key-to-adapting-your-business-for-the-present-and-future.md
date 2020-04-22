@@ -20,7 +20,7 @@ youtube_code: sb3vDIWlKKg
 
 <center><em>Right now you can take advantage of a bit of a lull to make sure your business is adapted for the future.</em></center>
 
-<br>During these unprecedented times, we’re finding different ways of doing business. If you haven’t already, now is the time you must start embracing all the technology out there. In the future, this <u><a target="_blank" href="https://joinrma.com/why-do-agents-need-to-embrace-technology.html">technology won&rsquo;t replace your job</a></u>, but **those who succeed in this business will be the ones who embrace technology**.
+<br>During these unprecedented times, we’re <u><a target="_blank" href="https://joinrma.com/how-we-as-professionals-can-thrive-right-now.html">finding different ways of doing business</a></u>. If you haven’t already, now is the time you must start embracing all the technology out there. In the future, this <u><a target="_blank" href="https://joinrma.com/why-do-agents-need-to-embrace-technology.html">technology won&rsquo;t replace your job</a></u>, but **those who succeed in this business will be the ones who embrace technology**.
 
 While we’re all sheltering in place, it’s tougher to get face to face than it usually is. The more comfortable you are with video chatting, however, the more opportunities you will get to be face to face during this time.
 
