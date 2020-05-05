@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Right now you can take advantage of a bit of a lull to make sure your business
   is adapted for the future.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/The+Key+to+Adapting+Your+Business+for+the+Present+and+Future.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
