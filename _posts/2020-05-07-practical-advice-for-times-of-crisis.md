@@ -5,9 +5,8 @@ date: 2020-05-07 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  Advice is only good if it’s practical and easily applied to one’s life. Today
-  I’m sharing some tips that I believe anyone can benefit from—they certainly
-  changed my life.
+  Today I’m sharing some tips that I believe anyone can benefit from—they
+  certainly changed my life.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
