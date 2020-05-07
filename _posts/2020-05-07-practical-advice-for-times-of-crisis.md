@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practical Advice for Times of Crisis
-date: 2020-04-30 00:00:00
+date: 2020-05-07 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: X37xEtgnTQE
 
 {% include youtube.html %}
 
-<center><em>Advice is only good if it’s practical and easily applied to one’s life. Today I’m sharing some tips that I believe anyone can benefit from—they certainly changed my life.</em></center>
+<center><em>Advice is only good if it&rsquo;s practical and easily applied to one&rsquo;s life. Today I&rsquo;m sharing some tips that I believe anyone can benefit from&mdash;they certainly changed my life.</em></center>
 
 <br>Dealing with a crisis requires a firm foundation and a resilient outlook. Years ago, some practical advice was passed along to me that truly changed my life. People label me an optimist as if optimism were some sort of trait I was born with, but they fail to realize that **optimism is a choice that everyone has to make each day**.
 
