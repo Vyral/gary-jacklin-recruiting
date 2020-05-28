@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There is currently enormous pent-up demand in the real estate market. I’m
   discussing how to take advantage of it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Take+Advantage+of+the+Opportunities.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
