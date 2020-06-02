@@ -15,3 +15,5 @@ youtube_code:
 {% include youtube.html %}
 
 {% include pullquote.html %}
+
+If you want to get ahold of me, give me a call or send a text!
