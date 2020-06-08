@@ -37,3 +37,5 @@ Showing them you have a plan will prove your professionalism and concern for the
 {% include pullquote.html %}
 
 If you have questions about taking advantage of demand or concerning anything else in real estate, please call or email us. We would love to help you in any way we can.
+
+&nbsp;
