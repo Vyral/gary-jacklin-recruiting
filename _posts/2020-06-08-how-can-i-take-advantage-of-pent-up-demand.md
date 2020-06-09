@@ -22,7 +22,7 @@ youtube_code: 2zlMAWGQuLU
 
 &nbsp;
 
-<center>If you want to get ahold of me, <a target="_blank" href="tel:(630) 638-2600">give me a call or send a text</a>!</center>
+<center><p style="font-size: 14px"> If you want to get ahold of me, <a target="_blank" href="tel:(630) 638-2600">give me a call or send a text</a>!</p></center>
 
 &nbsp;
 
