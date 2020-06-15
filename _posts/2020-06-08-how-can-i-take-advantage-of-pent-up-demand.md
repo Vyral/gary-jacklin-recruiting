@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Here are three great ways to take advantage of all the pent-up demand.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/How+Can+I+Take+Advantage+of+Pent-Up+Demand_.mp4
 pullquote: 'There is so much pent-up demand, which means wonderful opportunities.'
 enclosure_type: video/mp4
 enclosure_time:
