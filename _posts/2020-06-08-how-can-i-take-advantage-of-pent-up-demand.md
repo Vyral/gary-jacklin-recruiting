@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-08-jacklin-youtube.jpg
-youtube_code: 2zlMAWGQuLU
+youtube_code: NMZtScF7rJ0
 ---
 
 {% include youtube.html %}
@@ -22,7 +22,7 @@ youtube_code: 2zlMAWGQuLU
 
 &nbsp;
 
-<center><p style="font-size: 14px"> If you want to get ahold of me, <a target="_blank" href="tel:(630) 638-2600">give me a call or send a text</a>!</p></center>
+<center><p style="font-size: 14px">If you want to get ahold of me, <a target="_blank" href="tel:(630) 638-2600">give me a call or send a text</a>!</p></center>
 
 &nbsp;
 
