@@ -19,7 +19,7 @@ youtube_code: NMZtScF7rJ0
 
 {% include youtube.html %}
 
-<center><em>Here are three great ways to take advantage of all the pent-up demand.<br>If you want to get ahold of me, give me a call or send a text!</em></center>
+<center><em>Here are three great ways to take advantage of all the pent-up demand.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
 <br>Since there is so much negativity right now, I’d like to start today’s message on a positive note. Whenever one of my agents gets a new listing, I like to send them a congratulations text. The other day I sent three of these texts to my agents and all three responded that they had received multiple offers and sold the homes already. While we had more listings than that, three brand-new listings sold in a single morning.
 
