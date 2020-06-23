@@ -17,9 +17,9 @@ youtube_code: 7QnS7MBims8
 
 {% include youtube.html %}
 
-<center><em>Here’s what you need to know about owning your listing conversations.<br>If you want to get ahold of me, give me a call or send a text!</em></center>
+<center><em>Here&rsquo;s what you need to know about owning your listing conversations.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
-<br>
+&nbsp;
 
 Recently, I was talking with one of our agents, and she relayed her amazement at the ease with which she was able to have an impactful listing conversation and truly set herself apart from the competition. In fact, the seller even complimented her on her approach, which, by design, incorporated these three steps:
 
