@@ -21,11 +21,11 @@ youtube_code: 7QnS7MBims8
 
 &nbsp;
 
-Recently, I was talking with one of our agents, and she relayed her amazement at the ease with which she was able to have an impactful listing conversation and truly set herself apart from the competition. In fact, the seller even complimented her on her approach, which, by design, incorporated these three steps:
+Recently, I was talking with one of our agents, and she relayed her amazement at the ease with which she was able to have an impactful listing conversation and truly set herself apart from the competition. The seller even complimented her on her approach, which, by design, incorporated these three steps:
 
 **1\. Understand the concept and idea behind the listing conversation**. Stop inviting sellers to a listing presentation. Instead, invite them to a value-added, highly effective listing conversation. In other words, we’re not desperate for listings, and we’re not going to pressure the seller in any way; we’re meeting with the seller to see if a win-win working relationship can be created.
 
-**2\. Know the 5 stages of converting a listing into a listing conversation:**
+**2\. Know the five stages of converting a listing into a listing conversation:**
 
 * Handle pre-conversation activities. Think of the right questions, assemble the right tools, confirm the appointment, and prepare the listing agreement.
 * Set the tone for the meeting. Establish the boundaries for a win-win relationship.
