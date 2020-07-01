@@ -17,9 +17,9 @@ youtube_code: flb7YRUPeDY
 
 {% include youtube.html %}
 
-If you want to get ahold of me, give me a call or send a text\!
+<center><em>Doing more business starts with setting the right expectations.<br>If you want to get ahold of me, give me a call or send a text!</em></center>
 
-Conflict only exists where expectations differ. Part of what you need when prospecting for clients is a discussion regarding roles and expectations. You’ll also need a signed agreement from the seller, as well as a written roles and expectations tool to use. Here’s how each of them should go.
+<br>Conflict only exists where expectations differ. Part of what you need when prospecting for clients is a discussion regarding roles and expectations. You’ll also need a signed agreement from the seller, as well as a written roles and expectations tool to use. Here’s how each of them should go.
 
 **First, you should have a sit down with your seller about the roles and expectations for both of you**. We need to be on the same page to have a successful, win-win sale. With those expectations clearly set, it’s now time to make an agreement.
 
