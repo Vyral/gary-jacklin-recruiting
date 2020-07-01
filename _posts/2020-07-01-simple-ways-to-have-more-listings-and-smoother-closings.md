@@ -28,5 +28,3 @@ youtube_code: flb7YRUPeDY
 **After we make that agreement in principle, it’s time to put it in writing**. It’s not a bad idea to have it be part of your marketing plan. You can spell out what kind of communication your client can expect from you each week regarding showing feedback, marketing results, etc. It also lays out your expectations of the seller, including keeping their home clean and ready for showings. This tool is critical.
 
 If you need help putting a plan together for your sellers, don't hesitate to reach out. I’d love to give you a copy of ours and answer any questions you may have. I look forward to hearing from you.
-
-&nbsp;
