@@ -17,7 +17,7 @@ youtube_code: flb7YRUPeDY
 
 {% include youtube.html %}
 
-<center><em>Doing more business starts with setting the right expectations.<br>If you want to get ahold of me, give me a call or send a text!</em></center>
+<center><em>Doing more business starts with setting the right expectations.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
 <br>Conflict only exists where expectations differ. Part of what you need when prospecting for clients is a discussion regarding roles and expectations. You’ll also need a signed agreement from the seller, as well as a written roles and expectations tool to use. Here’s how each of them should go.
 
