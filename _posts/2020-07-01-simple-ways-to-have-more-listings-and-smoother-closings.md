@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Listing Presentation
 excerpt: Doing more business starts with setting the right expectations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Simple+Ways+to+Have+More+Listings+and+Smoother+Closings.mp4
 pullquote: This tool is critical for a smooth transaction.
 enclosure_type: video/mp4
 enclosure_time:
