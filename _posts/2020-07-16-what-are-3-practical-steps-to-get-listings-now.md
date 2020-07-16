@@ -19,9 +19,7 @@ youtube_code: kzC1FIgDjTA
 
 <center><em>Here&rsquo;s a simple, powerful listing strategy for your day-to-day grind.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
-&nbsp;
-
-One of the biggest challenges those in our profession face right now is getting listings. Here are three surefire ways to do it, regardless of the circumstances:
+<br>One of the biggest challenges those in our profession face right now is getting listings. Here are three surefire ways to do it, regardless of the circumstances:
 
 **1\. Set a daily goal to focus on and keep you motivated**. Keep it simple; when you wake up to face the day, your goal should be to find a listing that’s not already on the market and get it on the market. I’m not talking about prospecting or getting leads—those are suspects whose incubation period can be up to 13 months. Where do we get the ‘now’ business? You know the answer: The people who know, like, and trust you.
 
