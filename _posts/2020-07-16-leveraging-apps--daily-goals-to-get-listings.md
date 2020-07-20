@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are 3 Practical Steps to Get Listings Now?
+title: Leveraging Apps & Daily Goals to Get Listings
 date: 2020-07-16 00:00:00
 tags:
   - Lead Generation
