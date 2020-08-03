@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: 'Here’s a simple, powerful listing strategy for your day-to-day grind.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Leveraging+Apps+%26+Daily+Goals+to+Get+Listings.mp4
 pullquote: Technology doesn’t have to be confusing or hard to work.
 enclosure_type: video/mp4
 enclosure_time:
