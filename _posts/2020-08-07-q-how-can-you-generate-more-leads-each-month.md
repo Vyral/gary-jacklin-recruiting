@@ -19,9 +19,7 @@ youtube_code: 'https://youtu.be/1zfGIut8hFU'
 
 <center><em>These three things will help you generate 50 to 100 new leads per month.</em><br /><em>If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
-&nbsp;
-
-In our business, leads are everything. If you’re looking to increase the number of leads you get each month, try the following three tips:
+<br>In our business, leads are everything. If you’re looking to increase the number of leads you get each month, try the following three tips:
 
 1. **Strategize where and how to advertise**. We’ve found that Facebook is an incredible resource, but it’s also a matter of how you use it. Are you doing targeted ads? Are you retargeting your ads? Are you including video? In today’s market, you absolutely should implement video into your strategy.
 2. **Budget for six months of advertising**. A good strategy is great, but if you have no budget, it won’t do you any good. Take a step back and look at what you can afford with a six-month commitment. I’d suggest at least $100 per month. At RE/MAX Action, we know our numbers; buyers leads are just under $2 apiece.&nbsp;
