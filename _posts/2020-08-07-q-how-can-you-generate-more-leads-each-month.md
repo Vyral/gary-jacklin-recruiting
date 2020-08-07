@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Generate More Leads Each Month?'
-date: 2020-08-07 12:48:22
+date: 2020-08-07 12:48:00
 tags:
   - Lead Generation
 excerpt: These three things will help you generate 50 to 100 new leads per month.
@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/1zfGIut8hFU'
 {% include youtube.html %}
 
 <center><em>These three things will help you generate 50 to 100 new leads per month.</em><br /><em>If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
+
+&nbsp;
 
 In our business, leads are everything. If you’re looking to increase the number of leads you get each month, try the following three tips:
 
