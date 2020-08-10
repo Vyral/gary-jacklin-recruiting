@@ -10,9 +10,9 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/07-14-jacklin-youtube.jpg
-youtube_code: 'https://youtu.be/1zfGIut8hFU'
+youtube_code: 1zfGIut8hFU
 ---
 
 {% include youtube.html %}
