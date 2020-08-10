@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Can You Generate More Leads Each Month?'
+title: How Can You Generate More Leads Each Month?
 date: 2020-08-07 12:48:00
 tags:
   - Lead Generation
