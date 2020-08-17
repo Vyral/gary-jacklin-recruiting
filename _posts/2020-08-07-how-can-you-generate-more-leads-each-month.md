@@ -6,7 +6,7 @@ tags:
   - Lead Generation
 excerpt: These three things will help you generate 50 to 100 new leads per month.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Q-+How+Can+You+Generate+More+Leads+Each+Month_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/How+Can+You+Generate+More+Leads+Each+Month_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
