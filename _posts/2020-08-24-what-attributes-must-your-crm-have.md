@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 5 Attributes Your CRMs Must Have to Stay Relevant With Buyers and Sellers
+title: What Attributes Must Your CRM Have?
 date: 2020-08-24 00:00:00
 tags:
   - Lead Generation
   - Lead Conversion
-excerpt: >-
-  Today I’ll talk about five attributes your CRM must have in order to stay
-  relevant
+excerpt: Today I’ll talk about five attributes your CRM must have to stay relevant
 enclosure:
 pullquote: We arm our agents with a cutting-edge CRM that utilizes all these features.
 enclosure_type: video/mp4
@@ -19,15 +17,15 @@ youtube_code: zfz9o0brlFg
 
 {% include youtube.html %}
 
-<center><em>Today I&rsquo;ll talk about five attributes your CRM must have in order to stay relevant.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
+<center><em>Today I&rsquo;ll talk about five attributes your CRM must have to stay relevant.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
 <br>If you want to stay relevant to buyers and sellers in today’s market, the CRM you use will need to have five capabilities:
 
-**1\. MLS integration**. What do most buyers and sellers want? What’s the hot-button item right now? What’s a particular house worth after COVID? By integrating your CRM with the MLS, you can send your clients the information they’re looking for.
+**1\. MLS integration**. What do most buyers and sellers want? What’s the hot-button item right now? What’s a particular house worth after COVID? By integrating your CRM with the MLS, you can send your clients the information they need.
 
-**2\. Social media integration and authentication**. When you enter a lead, does your CRM go out and find all the social media attached to the client’s contact information? It’s critical that you’re able to connect via social media. Facebook, Instagram, Google Pay-per-Clicks, and so on all need to be integrated into your CRM.
+**2\. Social media integration and authentication**. When you enter a lead, does your CRM go out and find all the social media attached to the client’s contact information? It’s critical that you’re able to connect via social media. Facebook, Instagram, Google Pay-per-Clicks, etc. all need to be integrated into your CRM.
 
-**3\. Video integration**. You can’t make a bigger impact than with face-to-face interaction, so make sure your CRM integrates with video.
+**3\. Video integration**. The biggest impact you can have is with face-to-face interaction, so make sure your CRM integrates video.
 
 {% include pullquote.html %}
 
