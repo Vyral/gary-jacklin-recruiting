@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: Today I’ll talk about five attributes your CRM must have to stay relevant
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/What+Attributes+Must+Your+CRM+Have_.mp4
 pullquote: We arm our agents with a cutting-edge CRM that utilizes all these features.
 enclosure_type: video/mp4
 enclosure_time:
