@@ -5,7 +5,8 @@ date: 2020-09-08 00:00:00
 tags:
   - Lead Conversion
 excerpt: 'If your leads aren’t converting enough, these three tips can help.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Why+Arent+More+of+Your+Leads+Converting_.mp4
 pullquote: 'It all comes down to what you need to know, do, and have.'
 enclosure_type: video/mp4
 enclosure_time:
