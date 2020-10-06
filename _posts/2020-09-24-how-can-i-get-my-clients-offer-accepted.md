@@ -5,7 +5,8 @@ date: 2020-09-24 00:00:00
 tags:
   - Buyer Prospects
 excerpt: Here’s how you should handle multiple-offer situations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/How+Can+I+Get+My+Client's+Offer+Accepted_.mp4
 pullquote: >-
   You aren’t trying to drive your client’s price up, you’re just looking out for
   their best interests.
