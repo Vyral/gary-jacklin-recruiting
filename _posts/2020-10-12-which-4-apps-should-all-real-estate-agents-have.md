@@ -5,7 +5,8 @@ date: 2020-10-12 00:00:00
 tags:
   - Transaction Management
 excerpt: These are the apps every agent needs.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Which+4+Apps+Should+All+Real+Estate+Agents+Have_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
