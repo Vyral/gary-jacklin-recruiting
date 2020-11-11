@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: Here are my three best tips for converting leads into closed transactions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/What%E2%80%99s+the+Best+Way+to+Convert+Leads.mp4
 pullquote: Learn to use the technology available to you.
 enclosure_type: video/mp4
 enclosure_time:
