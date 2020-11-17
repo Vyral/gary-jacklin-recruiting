@@ -17,7 +17,7 @@ youtube_code: m8TkBfYaYSc
 
 {% include youtube.html %}
 
-<center>Here are the three things every agent needs to take their business further.</center>
+<p style="text-align:center">Here are the three things every agent needs to take their business further.</p>
 
 <center><br /><em>If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
