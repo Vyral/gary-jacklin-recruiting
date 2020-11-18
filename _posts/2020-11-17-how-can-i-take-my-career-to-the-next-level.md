@@ -17,9 +17,9 @@ youtube_code: m8TkBfYaYSc
 
 {% include youtube.html %}
 
-*Here are the three things every agent needs to take their business further.*<br>*If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>\!*
+<center><em>Here are the three things every agent needs to take their business further.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
 
-No matter what level you’ve attained in your real estate career, there will always be a level higher waiting for you. If you’re serious about leveling up, consider the value and true definition of each of these three things:
+<br>No matter what level you’ve attained in your real estate career, there will always be a level higher waiting for you. If you’re serious about leveling up, consider the value and true definition of each of these three things:
 
 **1\. Training.** You may roll your eyes as you read that word and think, “Look, I’m not new to this industry, I don’t need training.” However, if that’s your first thought, then you’ve missed the point already; in real estate (as in most professions), the training never stops. I’m learning and getting trained on new things all of the time, and you should be too. Every professional sports team holds a training camp before the season starts.
 
