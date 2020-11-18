@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: A mentor is someone who takes a higher level look at your business.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/10-06-jacklin-youtube.jpg
 youtube_code: m8TkBfYaYSc
 ---
