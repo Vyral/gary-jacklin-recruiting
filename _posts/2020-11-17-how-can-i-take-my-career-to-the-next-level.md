@@ -17,7 +17,11 @@ youtube_code: m8TkBfYaYSc
 
 {% include youtube.html %}
 
-### <center><em>Here are the three things every agent needs to take their business further.</em></center>
+[![](/uploads/click-here-to-call-or-text.png){: width="456" height="75"}](tel:6306382600)
+
+### &nbsp;
+
+<center><em>Here are the three things every agent needs to take their business further.</em></center>
 
 <br>No matter what level you’ve attained in your real estate career, there will always be a level higher waiting for you. If you’re serious about leveling up, consider the value and true definition of each of these three things:
 
