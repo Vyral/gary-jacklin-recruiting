@@ -34,3 +34,5 @@ The main concepts of how we make money in real estate will never change, but we 
 **3\. Mentoring.** A mentor is someone who takes a higher level look at your business and helps you on a more consultative basis. They’ll look at your goals and methodology and do what’s called a gap analysis—an unbiased search for any gaps that may exist between the place that you claim you want to reach and the plans you’ve implemented to reach it. Ideally, your mentor should have experience not just in listing and selling but in running a team at a very high level. They should have already attained the level you’re seeking to attain.
 
 Here at RE/MAX Action, we have a step-by-step guide for training, coaching, and mentoring, so don’t hesitate to reach out by phone or email if you want to know about that. I’m always ready to help in any way I can\!
+
+<center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
