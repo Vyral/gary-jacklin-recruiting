@@ -14,8 +14,12 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-<center><em>EXCERPT.<br />If you want to get ahold of me, <u><a href="tel:6306382600">give me a call or send a text</a></u>!</em></center>
+<center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
+
+### <center><em>EXCERPT.</em></center>
 
 <br>ARTICLE
 
 {% include pullquote.html %}
+
+<center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
