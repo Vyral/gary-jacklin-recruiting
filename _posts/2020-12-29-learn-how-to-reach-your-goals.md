@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn How to Reach Your Goals
-date: 2020-12-29 17:48:43
+date: 2020-12-29 17:48:00
 tags:
   - Transaction Management
 excerpt: 'If you’re having trouble reaching your goals, follow these four steps.'
