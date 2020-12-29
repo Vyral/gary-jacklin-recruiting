@@ -21,6 +21,8 @@ youtube_code: pRmoj5_WneU
 
 <center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
 
+&nbsp;
+
 <center><em>If you&rsquo;re having trouble reaching your goals, follow these four steps.</em></center>
 
 <br>We’ve all heard the term “goal setting” before. If you’ve been setting goals and not attaining them, though, there are four key steps you need to remember to get back on track:
