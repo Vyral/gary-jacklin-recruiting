@@ -16,7 +16,7 @@ youtube_code:
 
 <center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
 
-### <center><em>EXCERPT.</em></center>
+<center><em>EXCERPT.</em></center>
 
 <br>ARTICLE
 
