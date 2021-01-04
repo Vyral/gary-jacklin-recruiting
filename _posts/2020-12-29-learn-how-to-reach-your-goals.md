@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-21-jacklin-youtube.jpg
-youtube_code: pRmoj5_WneU
+youtube_code: fncltxxhVFg
 ---
 
 {% include youtube.html %}
