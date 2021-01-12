@@ -26,7 +26,7 @@ youtube_code: oMltNpi97rE
 
 **2\. A follow-up system**. This will automate the things that are most important to get a lead into the conversion process. We give them what they want, not what we want them to want. Over time, giving them what they want will fill our pipeline up with good leads of all shapes and sizes. What do they want? Helpful content and information we can share to help educate them about the market and real estate in general.
 
-**3\. A robust CRM**. This will take all of your leads, put them in one place, and help you engage with them on a regular basis. Plugging your leads into a system helps keep leads organized and gives you a much higher chance of conversion.
+**3\. A robust CRM**. This will take all of your leads, put them in one place, and help you engage with them regularly. Plugging your leads into a system helps keep leads organized and gives you a much higher chance of conversion.
 
 If you don’t have these three things in place, you’re going to continue to struggle converting leads. If you want to learn more or just have any questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
