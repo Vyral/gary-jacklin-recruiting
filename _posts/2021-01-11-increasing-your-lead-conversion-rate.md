@@ -5,7 +5,8 @@ date: 2021-01-11 00:00:00
 tags:
   - Lead Conversion
 excerpt: These three assets will help you improve your lead conversion.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/Increasing+Your+Lead+Conversion+Rate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
