@@ -9,14 +9,14 @@ show_custom_links: true
 custom_links:
   - title: Presentation
     url: >-
-      https://docs.google.com/presentation/d/1CasyxGtcCjygCfRPzEB3xrqq5ceIFvMd6Of6fria4LM/present?slide=id.p
+      https://docs.google.com/presentation/d/e/2PACX-1vTRb3GWHjtxG8moinUByhI9c2K8HCzyTdzcq_ZPwqR91DVV0Q2aIwNurITpS-0z4QyLwr8s0NymWPrR/pub?start=false&loop=true&delayms=5000&slide=id.p1
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Why Work With RE/MAX?
     CTA_text: RE/MAX is the Market Leader in Chicagoland
     CTA_link_text: Learn More
     CTA_url: >-
-      https://docs.google.com/presentation/d/1CasyxGtcCjygCfRPzEB3xrqq5ceIFvMd6Of6fria4LM/present?slide=id.p
+      https://docs.google.com/presentation/d/e/2PACX-1vTRb3GWHjtxG8moinUByhI9c2K8HCzyTdzcq_ZPwqR91DVV0Q2aIwNurITpS-0z4QyLwr8s0NymWPrR/pub?start=false&loop=true&delayms=5000&slide=id.p1
 client:
   name: Gary Jacklin
   title:
