@@ -5,7 +5,8 @@ date: 2021-02-03 00:00:00
 tags:
   - Transaction Management
 excerpt: There are three types of activities every real estate agent should know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/An+Agent%E2%80%99s+3+Possible+Activities+in+the+Business.mp4
 pullquote: >-
   We structure our business around the 47 vital listing activities and the 47
   vital buyer activities.
