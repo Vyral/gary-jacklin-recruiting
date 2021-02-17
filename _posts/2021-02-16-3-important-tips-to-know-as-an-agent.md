@@ -24,7 +24,7 @@ youtube_code: '-KX4IPsCjWE'
 
 <br>Today’s discussion may be a little difficult to hear, but if you’re not making tons of commission dollars in the current market, you’re doing something wrong. I can pinpoint what those mistakes may be, so here are the three things you need to know to do well as a real estate agent right now:
 
-**1\. Scheduling a face-to-face meeting is essential**. This business is all about voice to voice to get face to face. No real estate can be transacted without a meeting. Sure, we can do many things virtually, but the vast majority of transactions will require a face-to-face meeting. That means you need to schedule an appointment, which sounds simple, but it’s very challenging for many agents. So how do you do it? Well...
+**1\. Scheduling a face-to-face meeting is essential**. This business is all about using voice to voice to get face to face. No real estate can be transacted without a meeting. Sure, we can do many things virtually, but the vast majority of transactions will require a face-to-face meeting. That means you need to schedule an appointment, which sounds simple, but it’s very challenging for many agents. So how do you do it? Well…
 
 **2\. Reach out to your database**. Those of you who have been calling your database are the ones rocking it these days. If you haven’t been, start calling the people in your database. Make a list of people to call, and make five calls a day.
 
