@@ -18,7 +18,7 @@ youtube_code: '-KX4IPsCjWE'
 
 {% include youtube.html %}
 
-<center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
+<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
 
 <center><br /><em>I&rsquo;m sharing three tips for agents struggling in the current market.</em></center>
 
