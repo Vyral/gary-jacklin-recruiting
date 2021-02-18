@@ -36,4 +36,4 @@ Here at RE/MAX Action, one of the best tools we have is the buyer script. It’s
 
 If you have any questions or would like our buyer script, call, text, or email me, and I’ll send it to you. Let’s start rocking it\!
 
-<center><a href="tel:6306382600"><img alt="" width="456" height="75" src="/uploads/click-here-to-call-or-text.png" /></a></center>
+<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
