@@ -5,7 +5,8 @@ date: 2021-02-16 00:00:00
 tags:
   - Transaction Management
 excerpt: I’m sharing three tips for agents struggling in the current market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/3+Important+Tips+to+Know+as+an+Agent.mp4
 pullquote: >-
   Those of you who have been calling your database are the ones rocking it these
   days.
@@ -18,7 +19,7 @@ youtube_code: '-KX4IPsCjWE'
 
 {% include youtube.html %}
 
-<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
+<center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
 
 <center><br /><em>I&rsquo;m sharing three tips for agents struggling in the current market.</em></center>
 
@@ -36,4 +37,4 @@ Here at RE/MAX Action, one of the best tools we have is the buyer script. It’s
 
 If you have any questions or would like our buyer script, call, text, or email me, and I’ll send it to you. Let’s start rocking it\!
 
-<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
+<center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
