@@ -91,7 +91,7 @@ images:
   logo_width_number: 40
   hero_text: Chicagoland Real Estate Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/bigstock-aerial-view-of-a-neighborhood--216843475-cropped.jpg
+  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#dd1c2f'
