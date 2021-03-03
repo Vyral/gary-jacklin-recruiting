@@ -19,7 +19,7 @@ youtube_code: c5LqbaTeeh8
 
 <center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
 
-<center><br /><em>These four steps will help you get more listings.</em></center>
+<center style="font-size: 18px;"><br /><em>These four steps will help you get more listings.</em></center>
 
 <br>There’s an adage in the real estate business: If you’re not busy, get yourself busy. In other words, if you don’t have enough listings, then you need to get out there and find them. Today I’ll share the four steps it takes to get more listings quickly:
 
