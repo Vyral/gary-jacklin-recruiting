@@ -5,7 +5,7 @@ date: 2021-03-03 00:00:00
 tags:
   - Lead Generation
   - Lead Conversion
-excerpt: Here are the four steps it takes to get more listings now.
+excerpt: These four steps will help you get more listings.
 enclosure:
 pullquote: Once you’ve made 50 to 60 calls, I bet you’ll be very busy listing and selling homes.
 enclosure_type: video/mp4
