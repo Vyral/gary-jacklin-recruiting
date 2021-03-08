@@ -6,7 +6,7 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: These four steps will help you get more listings.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/The+4+Steps+to+Getting+Listings+Now.mp4
 pullquote: Once you’ve made 50 to 60 calls, I bet you’ll be very busy listing and selling homes.
 enclosure_type: video/mp4
 enclosure_time:
