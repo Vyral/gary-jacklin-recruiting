@@ -17,7 +17,7 @@ youtube_code:
 
 <center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
 
-<center><br /><em>EXCERPT.</em></center>
+<center style="font-size: 18px;"><em>EXCERPT.</em></center>
 
 <br>ARTICLE
 
