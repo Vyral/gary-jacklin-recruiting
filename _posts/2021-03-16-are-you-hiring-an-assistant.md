@@ -17,7 +17,7 @@ youtube_code: tGfCjpclvUc
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
 
-<br><center style="font-size: 18px;"><em>Here&rsquo;s how to make your first hiring decision a good one.</em></center>
+&nbsp;<center style="font-size: 18px;"><em>Here&rsquo;s how to make your first hiring decision a good one.</em></center>
 
 <br>If you want to grow your production and get to the next level, hiring an assistant is a must. As I’ve touched on in previous videos, it’s vital that agents stay focused on those core dollar-productive activities. Everything that’s not vital to a transaction is still relevant, but it should be handled by someone else that you can trust. What’s the process that drives your business forward? What do you need to know, do, and have to hire the right person and train them adequately on that process?
 
