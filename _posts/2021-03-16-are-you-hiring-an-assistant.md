@@ -5,7 +5,8 @@ date: 2021-03-16 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s how to make your first hiring decision a good one.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/Are+You+Hiring+an+Assistant_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
