@@ -32,6 +32,9 @@ First, you obviously want to include the contact information for the listing, su
 * Purchase price
 * Escalation clauses
 * Earnest money
+
+{% include pullquote.html %}
+
 * Down payment percentages
 * Types of loans
 * Lenders
@@ -39,8 +42,6 @@ First, you obviously want to include the contact information for the listing, su
 * Inspections
 * Concessions
 * Additional comments and information
-
-{% include pullquote.html %}
 
 **You should also create a columned list of all the offers made, as well as their terms.** While this is great for personal reference, it’s also something you can share with your sellers when you’re discussing offers. It helps further when coming up with counter offers, as there’s far more to consider than just the price. You’ll want to be able to easily look at the terms, how much they’re putting down, and other information mentioned in the list above.
 
