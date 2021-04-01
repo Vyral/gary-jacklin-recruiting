@@ -19,7 +19,7 @@ youtube_code: v-GR2PGTVKc
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
 
-{% include excerpt.html %}
+<br>{% include excerpt.html %}
 
 When you’re dealing with different listings that have multiple offers, things can quickly get out of control and lead to a lot of confusion. That’s why it’s important to keep everything organized by including three key things in your multiple offer summary worksheet.&nbsp;
 
