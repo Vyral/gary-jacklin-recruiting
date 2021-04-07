@@ -5,7 +5,8 @@ date: 2021-04-01 00:00:00
 tags:
   - Transaction Management
 excerpt: There are some simple ways to organize multiple offers successfully.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/How+to+Easily+Manage+Multiple+Offers+on+Your+Listings.mp4
 pullquote: >-
   If you take the time to organize your listings in these ways, you’ll find the
   process of managing multiple offers becomes much, much easier.
