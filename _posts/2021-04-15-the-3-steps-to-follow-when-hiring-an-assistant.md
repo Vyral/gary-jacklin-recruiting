@@ -23,7 +23,7 @@ youtube_code: UOV9asmhb7E
 
 {% include excerpt.html %}
 
-A while ago, I talked about how to navigate the process of hiring an assistant. Afterward, I had a lot of people reaching out to me and asking for more information about this process, so I thought it’d be helpful to provide an overview of the three key steps to follow. Here’s what you should do when hiring an assistant for your real estate business:
+In a <u><a target="_blank" rel="noopener" href="https://joinrma.com/are-you-hiring-an-assistant.html">previous post</a></u>, I talked about how to navigate the process of hiring an assistant. Afterward, I had a lot of people reaching out to me and asking for more information about this process, so I thought it’d be helpful to provide an overview of the three key steps to follow. Here’s what you should do when hiring an assistant for your real estate business:
 
 **1\. Understand which vital activities are most relevant**. There are vital tasks that must be done in a real estate business, but not all of them are relevant to you as an agent. You want to be focused on the dollar-productive activities and leave the behind-the-scenes work to your assistant.
 
