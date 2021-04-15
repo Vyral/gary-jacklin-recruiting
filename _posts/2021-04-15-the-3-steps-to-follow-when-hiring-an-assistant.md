@@ -33,6 +33,4 @@ A while ago, I talked about how to navigate the process of hiring an assistant. 
 
 I’d be happy to share the resources I use with you. And if you have any questions about hiring an assistant or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
 
-{% include pullquote.html %}
-
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
