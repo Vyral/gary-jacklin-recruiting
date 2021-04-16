@@ -31,6 +31,6 @@ In a <u><a target="_blank" rel="noopener" href="https://joinrma.com/are-you-hiri
 
 **3\. Know how their characteristics align with the position**. A DiSC assessment can be incredibly helpful when going through potential candidates and making sure their strengths align with what you’re looking for. For example, you may want someone who’s more cautious or someone who’s very compassionate. The DiSC assessment can help you discover these traits in candidates before choosing who to hire.
 
-I’d be happy to share the resources I use with you. And if you have any questions about hiring an assistant or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
+I’d be happy to share the resources I use with you. If you have any questions about hiring an assistant or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
