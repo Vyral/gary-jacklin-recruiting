@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   These are the steps you need to follow to make sure you hire a great
   assistant.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/The+3+Steps+to+Follow+When+Hiring+an+Assistant.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
