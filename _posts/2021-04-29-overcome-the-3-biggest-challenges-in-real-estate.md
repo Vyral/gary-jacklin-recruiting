@@ -23,7 +23,7 @@ youtube_code: g1znhALnYro
 
 When it comes to the biggest challenges facing agents today, there are three that come to mind right away. I’m going to go through each of them and show you how to overcome them:
 
-**1\. Time.** We all have the same 24 hours in the day, but why are some of us more productive than others? One of the big factors is learning to say “no.” It’s not that you don’t want to help somebody out, but it can often get you off track. If it’s not going to interrupt your focus, by all means, help. However, sometimes you just need to say “I’d love to, but I can’t right now.”&nbsp;
+**1\. Time.** We all have the same 24 hours in the day, but why are some of us more productive than others? One of the big factors is learning to say “no.” It’s not that you don’t want to help somebody out, but it can often get you off track. If it’s not going to interrupt your focus, by all means, help. However, sometimes you just need to say, “I’d love to, but I can’t right now.”&nbsp;
 
 Keeping your focus is also important. Prioritize specific activities for specific periods of the day. You should be spending two hours prospecting every day and pre-scheduling your appointments. The most dollar-productive times are evenings and weekends. Prioritize them in this order: Listings → buyer appointments → prospecting time.&nbsp;
 
