@@ -5,7 +5,8 @@ date: 2021-04-29 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s a look into the three biggest issues real estate agents face daily.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/Overcome+the+3+Biggest+Challenges+in+Real+Estate.mp4
 pullquote: It’s important to leverage the admin staff on your team.
 enclosure_type: video/mp4
 enclosure_time:
