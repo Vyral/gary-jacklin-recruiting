@@ -5,7 +5,8 @@ date: 2021-05-20 00:00:00
 tags:
   - Listing Presentation
 excerpt: These are the five main reasons why people choose to sell their homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/The+5+Reasons+Home+Sellers+Want+to+List.mp4
 pullquote: 'You have a gold mine in your phone, but are you mining it?'
 enclosure_type: video/mp4
 enclosure_time:
