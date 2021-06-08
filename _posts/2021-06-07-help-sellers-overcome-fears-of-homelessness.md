@@ -25,7 +25,7 @@ youtube_code: jfWq3mouhcQ
 
 {% include excerpt.html %}
 
-Today I'm talking about how to overcome the number one objection that sellers have about listing their homes right now. Sellers are saying, “I'm not going to list my house because I'm afraid I won't find a home to purchase.” So how do we overcome their fear of homelessness?
+Today I'm talking about how to overcome the No. 1 objection that sellers have about listing their homes right now. Sellers are saying, “I'm not going to list my house because I'm afraid I won't find a home to purchase.” So how do we overcome their fear of homelessness?
 
 **1\. Discuss everything thoroughly with the client**. We go into this in a very methodical way. We have our plan and share that with the client so they can have confidence in us that by implementing all of these strategies as part of our marketing plan, we'll find them a home.
 
