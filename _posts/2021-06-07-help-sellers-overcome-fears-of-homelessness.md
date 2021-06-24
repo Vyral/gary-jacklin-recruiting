@@ -33,7 +33,7 @@ Today I'm talking about how to overcome the No. 1 objection that sellers have ab
 
 {% include pullquote.html %}
 
-**3\. Leverage your time to find listings for your clients**. When sellers won't list because they can't find a home to buy, that's the perfect opportunity for the specific buyer dialogue. That's strategy\! Now we need to go out to the marketplace the seller told you they like. Now you're leveraging your time to find the perfect home for that particular seller.
+**3\. Leverage your time to find listings for your clients**. When sellers won't list because they can't find a home to buy, that's the perfect opportunity for the specific buyer dialogue. That's strategy\! If you are unaware of what that is, <u><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/0f71d6291fda676980a5ebfe3bee64c6">click here to download the specific buyer script</a></u>. Now we need to go out to the marketplace the seller told you they like. Now you're leveraging your time to find the perfect home for that particular seller.
 
 In the meantime, you're going to find other listings and other people that are moving. That's how you fill your pipeline listings in the future. By doing this, you will also find a home for another client. This becomes part of your arsenal of marketing plans when you're working with the seller. When you're on that listing appointment, do what the other agents are unwilling to do. Make phone calls and knock on doors to find listings for your particular buyer.
 
