@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m sharing advice on how you can help overcome a client’s selling
   fears.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/Help+Sellers+Overcome+Fears+of+Homelessness.mp4
 pullquote: >-
   When you're on that listing appointment, do what the other agents are
   unwilling to do.
