@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Fundamentals for a Successful Real Estate Business
-date: 2021-07-19 00:00:00
+date: 2021-07-27 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
