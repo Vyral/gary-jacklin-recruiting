@@ -31,6 +31,6 @@ There are three fundamentals that can help guarantee your success as a real esta
 
 **3\. Focus on the major things:** In sales, you can’t get bogged down in minor processes—you need to put your energy into the things that truly matter. It can be easy to “prepare to prepare” for minor things like updating databases or uploading Facebook posts. The major things come from instances where you are “in the presence of” clients, prospects, and others who make you revenue. Look at your schedule, see where you spend your time, and make sure you’re using the majority of it in the presence of clients. Delegate the minor things to others.
 
-If you’d like to go deeper into these concepts, or if you’d like to learn more about growing your business, feel free to reach out to me. I look forward to helping you soon.
+If you’d like to go deeper into these concepts, or if you’d like to learn more about growing your business, feel free to reach out to me. If you’re looking for a place to start, [<u>click here for a free download</u>](https://join.gochicagolandhomes.com/ask/58242ecbeb328b03b00891a17fab7920){: target="_blank" rel="noopener"}. I look forward to helping you soon.
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
