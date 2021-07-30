@@ -5,7 +5,8 @@ date: 2021-07-01 00:00:00
 tags:
   - Transaction Management
 excerpt: Here are my tips on dealing with limited time and money.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/3+Tips+for+Agents+With+Limited+Time+or+Money.mp4
 pullquote: Your focus should always be on listings.
 enclosure_type: video/mp4
 enclosure_time:
