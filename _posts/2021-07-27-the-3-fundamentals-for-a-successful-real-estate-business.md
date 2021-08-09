@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   These three fundamentals can help you find success in your real estate
   business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/The+3+Fundamentals+for+a+Successful+Real+Estate+Business.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
