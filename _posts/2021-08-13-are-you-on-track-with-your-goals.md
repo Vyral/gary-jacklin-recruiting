@@ -17,6 +17,8 @@ youtube_code: JN53auaUx0o
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
 
+&nbsp;
+
 {% include excerpt.html %}
 
 I’m apologizing ahead of time because I’m going to give you a kick in the teeth you may need. Today I’m discussing your 2021 goals.
