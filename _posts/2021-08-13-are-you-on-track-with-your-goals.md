@@ -17,8 +17,6 @@ youtube_code: JN53auaUx0o
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
 
-&nbsp;
-
 {% include excerpt.html %}
 
 I’m apologizing ahead of time because I’m going to give you a kick in the teeth you may need. Today I’m discussing your 2021 goals.
@@ -34,7 +32,5 @@ You need voice to voice to get a face to face appointment. You want to target se
 My goal today was to rattle your cage, get you back on track, and help you hit your goal. **If you’re not on track to reach your goal by the end of 2021, we need to talk.&nbsp;**
 
 Download this free document that will help you develop a business plan and stay on track. Then call, text, or email me. I’d be glad to share what we do here at RE/MAX Action and how you can get results.&nbsp;
-
-&nbsp;
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
