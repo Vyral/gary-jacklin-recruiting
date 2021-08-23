@@ -31,8 +31,8 @@ Are you uploading, downloading, and creating? You’re not going to make money d
 
 You need voice to voice to get a face to face appointment. You want to target sellers because on average, one buyer will take up 32 hours of your time, while a seller will only take up eight. We’ve discussed only working with qualified buyers in the past, and they’re those who also have a home to sell. If you’re focused on speaking with sellers every day, the majority of them will also buy a home.
 
-My goal today was to rattle your cage, get you back on track, and help you hit your goal. **If you’re not on track to reach your goal by the end of 2021, we need to talk.&nbsp;**
+My goal today was to rattle your cage, get you back on track, and help you hit your goal. **If you’re not on track to reach your goal by the end of 2021, we need to talk.**
 
-Download this free document that will help you develop a business plan and stay on track. Then call, text, or email me. I’d be glad to share what we do here at RE/MAX Action and how you can get results.&nbsp;
+[<u>Download this free document</u>](https://join.gochicagolandhomes.com/ask/fcaee647b264e3da187d14e0fd4647b1){: target="_blank" rel="noopener"} that will help you develop a business plan and stay on track. Then call, text, or email me. I’d be glad to share what we do here at RE/MAX Action and how you can get results.
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
