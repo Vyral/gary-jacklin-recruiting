@@ -4,16 +4,20 @@ title: Free Downloads
 permalink: /free-downloads/
 ---
 
-## <a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/fcaee647b264e3da187d14e0fd4647b1">Learn To Get "NOW" Listings To Hit Your Goal!</a>
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/19niGvEVPU6gAoa73kLtanoSa_mvgOCr9/view">RMA Farming for Listings Plan</a>
 
 ---
 
-## <a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/0f71d6291fda676980a5ebfe3bee64c6">Specific Buyer Script For NOW Listings!</a>
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1ee7vGGYdXCrmjY73AMEFbKTUaLdd57ZR/view">RMA Business Plan Overview</a>
 
 ---
 
-## <a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/555fae405f781c5136a61a284b09d037">Why Buyers Should Buy and Sellers Should Sell NOW!</a>
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1s83kWjRxTlvATcXFHzHF5y_hVSeFVKms/view">7 Realities of Buyer Fatigue</a>
 
 ---
 
-## <a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58242ecbeb328b03b00891a17fab7920">Top 3 Fundamentals Which Guarantee Your Real Estate Sales SUCCESS!</a>
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1_L6qCrl_sGAbSjsauUJ7RT-1PqzHzeuE/view">Specific Buyer Script (In HOT Market)</a>
+
+---
+
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1oPmBOPGpaHLO7K85eKsIz8rC0lFLC_5e/view">Top 5 Reasons Homeowners Plan to Sell This Year</a>
