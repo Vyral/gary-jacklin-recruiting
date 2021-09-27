@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You on Track With Your Goals?
-date: 2021-08-13 00:00:00
+date: 2021-09-24 00:00:00
 tags:
   - Transaction Management
 excerpt: This is your wake-up call about reaching your 2021 business goals.
@@ -16,8 +16,6 @@ youtube_code: JN53auaUx0o
 {% include youtube.html %}
 
 <center><a href="tel:6306382600"><img width="345" height="75" src="uploads/Button - 345.png" /></a></center>
-
-&nbsp;
 
 {% include excerpt.html %}
 
