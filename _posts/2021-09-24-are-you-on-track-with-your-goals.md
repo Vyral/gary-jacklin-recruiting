@@ -5,7 +5,8 @@ date: 2021-09-24 00:00:00
 tags:
   - Transaction Management
 excerpt: This is your wake-up call about reaching your 2021 business goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/Are+You+on+Track+With+Your+Goals_.mp4
 pullquote: You only have about four months left to achieve your goal.
 enclosure_type: video/mp4
 enclosure_time:
