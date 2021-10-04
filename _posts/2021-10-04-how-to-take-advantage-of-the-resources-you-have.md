@@ -15,7 +15,7 @@ youtube_code: PADjwyjp7Go
 ---
 {% include youtube.html %}
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/b192e4e7b5a1b0195dd3cc7aceb44366"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 &nbsp;
 
@@ -31,4 +31,4 @@ If you’re still unsure how to act on this, I’ve put together a free download
 
 If you need any help, that’s why I’m here. Call, text, or email me, and I’d be more than happy to answer any questions.
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/b192e4e7b5a1b0195dd3cc7aceb44366"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
