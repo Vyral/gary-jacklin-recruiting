@@ -4,7 +4,7 @@ title: Free Downloads
 permalink: /free-downloads/
 ---
 
-## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1BFElPrs7aSihDRRNUceI-kn8Y1_rrPQs/view">Choosing a Career Path Plan</a>
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1BFElPrs7aSihDRRNUceI-kn8Y1_rrPQs/view">Choosing a Career Path</a>
 
 ---
 
