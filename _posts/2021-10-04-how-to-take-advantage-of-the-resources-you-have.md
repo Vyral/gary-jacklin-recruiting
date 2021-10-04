@@ -15,11 +15,11 @@ youtube_code: PADjwyjp7Go
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 <center><a href="https://join.gochicagolandhomes.com/ask/b192e4e7b5a1b0195dd3cc7aceb44366"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 &nbsp;
-
-{% include excerpt.html %}
 
 Today we’re going to solve the two greatest challenges that real estate agents face: Not enough time and not enough money. I live by the slogan, “There are no problems, only challenges and solutions,” so let’s look at the solution:
 
