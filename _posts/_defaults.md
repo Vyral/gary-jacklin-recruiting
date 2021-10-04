@@ -15,7 +15,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
+<center><a href="LINK"><img src="uploads/FreeDownloadsButton-343.png" width="343" height="72" /></a></center>
 
 &nbsp;
 
@@ -23,4 +23,4 @@ youtube_code:
 
 {% include pullquote.html %}
 
-<center><a href="tel:6306382600"><img src="uploads/Button - 345.png" width="345" height="75" /></a></center>
+<center><a href="LINK"><img src="uploads/FreeDownloadsButton-343.png" width="343" height="72" /></a></center>
