@@ -15,11 +15,11 @@ youtube_code:
 
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 <center><a href="LINK"><img src="uploads/FreeDownloadsButton-343.png" width="343" height="72" /></a></center>
 
 &nbsp;
-
-{% include excerpt.html %}
 
 {% include pullquote.html %}
 
