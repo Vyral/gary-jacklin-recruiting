@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /09-01-jacklin-youtube.jpg
-youtube_code: PADjwyjp7Go
+youtube_code: _ejq7a2WM-U
 ---
 {% include youtube.html %}
 
@@ -21,7 +21,7 @@ youtube_code: PADjwyjp7Go
 
 &nbsp;
 
-Today we’re going to solve the two greatest challenges that real estate agents face: Not enough time and not enough money. I live by the slogan, “There are no problems, only challenges and solutions,” so let’s look at the solution:
+Today we’re going to solve the two greatest challenges that real estate agents face: not enough time and not enough money. I live by the slogan, “There are no problems, only challenges and solutions,” so let’s look at the solution:
 
 **Stay in the dollar-productive activities**. This applies to everything in the real estate industry, but when you have more conversations with more people, it leads to more appointments, transactions, and ultimately more money.
 
