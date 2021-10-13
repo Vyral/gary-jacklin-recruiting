@@ -5,7 +5,8 @@ date: 2021-10-04 00:00:00
 tags:
   - Transaction Management
 excerpt: Use the resources available to you to maximize your success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/How+To+Take+Advantage+of+the+Resources+You+Have.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
