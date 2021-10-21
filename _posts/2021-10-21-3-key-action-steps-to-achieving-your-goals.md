@@ -19,6 +19,8 @@ youtube_code: LAGDuCfOhWE
 
 <center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/8d1dda0407592cd06fb2c70f4f4045ff"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
+&nbsp;
+
 There are three steps that you need to take to achieve any goal in the real estate business:
 
 **1\. Know your numbers**. They’re right there in your phone. Go into your contacts and see how many you have. I had 3,600 in mine. Take the number you have and follow along. If I reach 7% of that 3,600, that’s 252 potential listings in my address book. That’s how many transactions are going to take place. If we just capture 10% of that 7%, that gives us 25 transactions. If you proactively start today, you’ll have the business you need to finish out the year strong.
