@@ -4,6 +4,10 @@ title: Free Downloads
 permalink: /free-downloads/
 ---
 
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1z255PaBdPufdqiC10P9mUSNgs4WmLZMe/view">Housing Bubble Truths Path</a>
+
+---
+
 ## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1BFElPrs7aSihDRRNUceI-kn8Y1_rrPQs/view">Choosing a Career Path</a>
 
 ---
