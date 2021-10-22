@@ -25,7 +25,7 @@ There are three steps that you need to take to achieve any goal in the real esta
 
 **1\. Know your numbers**. They’re right there in your phone. Go into your contacts and see how many you have. I had 3,600 in mine. Take the number you have and follow along. If I reach 7% of that 3,600, that’s 252 potential listings in my address book. That’s how many transactions are going to take place. If we just capture 10% of that 7%, that gives us 25 transactions. If you proactively start today, you’ll have the business you need to finish out the year strong.
 
-**2\. Call the right people**. These are the people who already know you, like you, and trust you. You know them and they know you. Even if you’ve never done business together and they aren't thinking of buying or selling, ask them if they know somebody who is. If they trust you, they will.
+**2\. Call the right people**. These are the people who already know you, like you, and trust you. You know them, and they know you. Even if you’ve never done business together and they aren't thinking of buying or selling, ask them if they know somebody who is. If they trust you, they will.
 
 **3\. Call the right people with the right message**. What is that message? It’s a message of authority and trust. We use a presentation to address what’s going on in the market, common seller objections, and more. Use this to help you get that next listing or sale.
 
