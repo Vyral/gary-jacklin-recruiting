@@ -5,7 +5,8 @@ date: 2021-10-21 00:00:00
 tags:
     - Transaction Management
 excerpt: Follow these three steps to help you reach your business goals.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/3+Key+Action+Steps+to+Achieving+Your+Goals.mp4
 pullquote: If we just capture 10% of that 7%, that gives us 25 transactions.
 enclosure_type: video/mp4
 enclosure_time:
