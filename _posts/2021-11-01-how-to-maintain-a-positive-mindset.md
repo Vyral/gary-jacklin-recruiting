@@ -17,7 +17,7 @@ youtube_code: HsQ03XunsjA
 
 {% include excerpt.html %}
 
-<center><a target="_blank" rel="noopener" href="Have you ever wondered what the secret to real estate success is? I have the answer, and it will shock you with its simplicity. The truth is, it all comes down to a positive mindset, and today I want to talk about why that is. In reality, the real estate business is simple, but that doesn’t mean it’s easy."><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/c37f8157e99f3a613d9e0adcb6e39b1f"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 &nbsp;
 
@@ -35,4 +35,4 @@ This is why it’s important to shut off the noise. There’s always going to be
 
 As always, if you have any questions for me, please shoot me a call or send me an email. I am always willing to talk.
 
-<center><a target="_blank" rel="noopener" href="Have you ever wondered what the secret to real estate success is? I have the answer, and it will shock you with its simplicity. The truth is, it all comes down to a positive mindset, and today I want to talk about why that is. In reality, the real estate business is simple, but that doesn’t mean it’s easy."><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/c37f8157e99f3a613d9e0adcb6e39b1f"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
