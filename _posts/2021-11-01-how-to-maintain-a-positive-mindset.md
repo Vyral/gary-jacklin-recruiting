@@ -21,7 +21,7 @@ youtube_code: HsQ03XunsjA
 
 &nbsp;
 
-Today, I want to share the secret you’ve all been waiting for: The guaranteed method to create real estate success. I know it’s a big statement, but it works.
+Today I want to share the secret you’ve all been waiting for: the guaranteed method to create real estate success. I know it’s a big statement, but it works.
 
 The key to real estate success is to have a positive attitude. Really. Everything starts with our mindset. It may be difficult to consistently stay in a positive mindset, but don’t worry. **I’m going to share some basic truths with you to help you stay positive no matter how your day is going**.
 
@@ -29,7 +29,7 @@ The key to real estate success is to have a positive attitude. Really. Everythin
 
 First off, the world is full of people. Hard to argue with that. Second, people need to live somewhere. Third, people grow older. Based on these basic truths, we can see that people will have to move eventually. Even if they live in the same home for 40 years, when they grow older, they’ll have to move.
 
-**It’s estimated that 7% of people will move in the next 12 months**. How do you make sure you are the agent they work with when they move? Once again, it’s simple: people work with those they know, like, and trust. If we keep a positive attitude, people are more likely to work with us.
+**It’s estimated that 7% of people will move in the next 12 months**. How do you make sure you are the agent they work with when they move? Once again, it’s simple: People work with those they know, like, and trust. If we keep a positive attitude, people are more likely to work with us.
 
 This is why it’s important to shut off the noise. There’s always going to be noise, but it’s important to remember that this business is simple, not easy. It requires hard work, conversations, and meeting people face-to-face.
 
