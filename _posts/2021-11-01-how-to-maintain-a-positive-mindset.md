@@ -5,7 +5,8 @@ date: 2021-11-01 00:00:00
 tags:
     - Transaction Management
 excerpt: Maintaining a positive attitude is the secret to success.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/How+To+Maintain+a+Positive+Mindset.mp4
 pullquote: People work with those they know, like, and trust.
 enclosure_type: video/mp4
 enclosure_time:
