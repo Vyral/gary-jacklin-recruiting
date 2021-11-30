@@ -5,7 +5,8 @@ date: 2021-11-16 00:00:00
 tags:
     - Transaction Management
 excerpt: You can consistently hit your goals by following these four steps.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2021/How+Can+You+Consistently+Achieve+Your+Goals_.mp4
 pullquote: Think about where you want to be 12 months from now, and put it in ink.
 enclosure_type: video/mp4
 enclosure_time:
