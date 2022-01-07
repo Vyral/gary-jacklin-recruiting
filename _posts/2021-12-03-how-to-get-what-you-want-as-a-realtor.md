@@ -5,7 +5,8 @@ date: 2021-12-03 00:00:00
 tags:
   - Transaction Management
 excerpt: Today I’m sharing how you can achieve the goals you set for yourself.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/How+To+Get+What+You+Want+as+a+Realtor.mp4
 pullquote: >-
   Being successful starts with a comprehensive business plan for you and your
   company.
