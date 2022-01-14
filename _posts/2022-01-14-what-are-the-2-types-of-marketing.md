@@ -21,6 +21,8 @@ youtube_code: ZQsA96KxHu8
 
 <center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/be6ee2f528a87d7fe1d057ef1a95c83c"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
+<center>&nbsp;</center>
+
 All the time, I hear the word ‘marketing’ being thrown around—“I’m going to do more marketing,” or “I need to change my marketing.” Well, there are actually two types of marketing, and today I’ll discuss what they are and how you can optimize your advertising strategies.&nbsp;
 
 The first type of marketing is **exposure advertising**. This is where you market to expose yourself; in other words, you’re marketing so that your consumers will see you everywhere.
