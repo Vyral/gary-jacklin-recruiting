@@ -33,6 +33,6 @@ Many agents waste a lot of money because they don’t understand the difference 
 
 Additionally, you need to track your marketing. If you’re doing lead generation, keep track of your leads and where they come from. If it’s exposure advertising, keep track of where people are hearing about you.
 
-For more information and tips about these types of marketing, click here. If you have any questions, don’t hesitate to give us a call or send us an email. We’d love to have a discussion with you.
+For more information and tips about these types of marketing, [click here](https://drive.google.com/file/d/1KimbOjM60eqwKE19tvHq4XD-byYf3yTT/view){: target="_blank" rel="noopener"}. If you have any questions, don’t hesitate to give us a call or send us an email. We’d love to have a discussion with you.
 
 <center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/be6ee2f528a87d7fe1d057ef1a95c83c"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
