@@ -23,7 +23,7 @@ youtube_code: ZQsA96KxHu8
 
 <center>&nbsp;</center>
 
-All the time, I hear the word ‘marketing’ being thrown around—“I’m going to do more marketing,” or “I need to change my marketing.” Well, there are actually two types of marketing, and today I’ll discuss what they are and how you can optimize your advertising strategies.&nbsp;
+All the time, I hear the word ‘marketing’ being thrown around—“I’m going to do more marketing,” or “I need to change my marketing.” Well, there are actually two types of marketing, and today I’ll discuss what they are and how you can optimize your strategies.&nbsp;
 
 The first type of marketing is **exposure advertising**. This is where you market to expose yourself; in other words, you’re marketing so that your consumers will see you everywhere.
 
