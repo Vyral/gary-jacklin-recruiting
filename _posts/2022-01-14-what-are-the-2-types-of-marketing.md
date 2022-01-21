@@ -5,7 +5,8 @@ date: 2022-01-14 00:00:00
 tags:
   - Lead Generation
 excerpt: The key to better marketing is a better understanding of the term.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/What+Are+the+2+Types+of+Marketing_.mp4
 pullquote: >-
   Understand what you’re trying to accomplish and what your return on investment
   will be. 
