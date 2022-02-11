@@ -11,13 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-11-jacklin-youtube.jpg
-youtube_code:
+youtube_code: qLZ_z1OeM20
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/be6ee2f528a87d7fe1d057ef1a95c83c"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 You’ve probably heard the word “inflation” thrown out in conversation or on the news recently. We’re all feeling it on a day-to-day basis. **The greatest hedge against inflation from a historical perspective is real estate.** Yes, we have a lack of inventory, but that’s not the conversation we should be having with our clients.&nbsp;
 
