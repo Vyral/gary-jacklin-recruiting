@@ -19,11 +19,11 @@ youtube_code: qLZ_z1OeM20
 
 <center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
-You’ve probably heard the word “inflation” thrown out in conversation or on the news recently. We’re all feeling it on a day-to-day basis. **The greatest hedge against inflation from a historical perspective is real estate.** Yes, we have a lack of inventory, but that’s not the conversation we should be having with our clients.&nbsp;
+<br>You’ve probably heard the word “inflation” thrown out in conversation or on the news recently. We’re all feeling it on a day-to-day basis. **The greatest hedge against inflation from a historical perspective is real estate.** Yes, we have a lack of inventory, but that’s not the conversation we should be having with our clients.&nbsp;
 
 Due to the crazy appreciation over the last few years, a lot of homeowners have pent-up equity in their properties, and they’re not getting the right information on what to do with it. Buying a new home could be the right move for your client. They can use their equity to buy something more valuable. Home appreciation always outpaces inflation over the long term.&nbsp;
 
-I can go back decades to the 1970s and see that appreciation was about 9.9% and inflation was 7.1%. Even in that historically terrible economic time, appreciation was higher than inflation.That means **homeowners still built equity despite a poor economy.**
+I can go back decades to the 1970s and see that appreciation was about 9.9% and inflation was 7.1%. Even in that historically terrible economic time, appreciation was higher than inflation. That means **homeowners still built equity despite a poor economy.**
 
 {% include pullquote.html %}
 
