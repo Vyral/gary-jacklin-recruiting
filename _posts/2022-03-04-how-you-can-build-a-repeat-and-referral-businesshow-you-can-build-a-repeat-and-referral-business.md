@@ -25,7 +25,7 @@ Today I’m going to share with you the three must-haves of building a profitabl
 
 **1\. The right mindset.** 80% of all small businesses fail, and 80% of new agents fail within their first year. By five years in, 87% of agents have failed. These are incredible statistics, but they can be addressed.&nbsp;
 
-From day one in this business, you should be trying to get out of the business. You need to build the systems and processes to keep you in front of people. Your business needs to be systems-dependent. I also recommend reading “The E-Myth Revisited” by Michael Gerber.
+From day one, you should be working on getting out of your business, meaning you need to build the systems and processes to keep you out in front of people; your business needs to be systems-dependent. I also recommend reading “The E-Myth Revisited” by Michael Gerber.
 
 **2\. A robust CRM.** You need one place where you store all your clients’ information on day one. Having coached and mentored a lot of agents, I know it tends to be scattered around, and remember, an Excel spreadsheet is not a CRM. This is not the 1990s.&nbsp;
 
