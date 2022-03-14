@@ -33,7 +33,7 @@ You need to have a robust CRM that can integrate with the MLS, run campaigns, ma
 
 {% include pullquote.html %}
 
-**3\. Action steps.** I’m not going to go on and on about what you should be doing with your clients. Put simply, all you need to do is keep in touch with your people and give them valuable information. Use the communication tools that we have today; call them, see them, email them, and be involved on social media. The actual action you need to take has not changed—the tools have changed.
+**3\. Action steps.** I’m not going to go on and on about what you should be doing with your clients. Put simply, all you need to do is keep in touch with people and give them valuable information. Use the communication tools that we have today; call them, see them, email them, and be involved on social media. The actual action you need to take has not changed—the tools have changed.
 
 I hope these three points helped you. If you have any questions, feel free to call or email me. I would love to hear from you.
 
