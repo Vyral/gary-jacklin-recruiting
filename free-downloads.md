@@ -4,6 +4,10 @@ title: Free Downloads
 permalink: /free-downloads/
 ---
 
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1i5UGthuZSzgnDD7-m9fX4QVH-mL5IJjt/view">How to Build a Consistent Repeat & Referral Business</a>
+
+---
+
 ## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1z255PaBdPufdqiC10P9mUSNgs4WmLZMe/view">Housing Bubble Truths</a>
 
 ---
