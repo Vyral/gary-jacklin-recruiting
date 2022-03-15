@@ -4,6 +4,10 @@ title: Free Downloads
 permalink: /free-downloads/
 ---
 
+## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1Ou8G1gM1aps_YoquLNpKP7m6RUQvCysJ/view?usp=sharing">Hedge Against Inflation</a>
+
+---
+
 ## <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1i5UGthuZSzgnDD7-m9fX4QVH-mL5IJjt/view">How to Build a Consistent Repeat & Referral Business</a>
 
 ---
