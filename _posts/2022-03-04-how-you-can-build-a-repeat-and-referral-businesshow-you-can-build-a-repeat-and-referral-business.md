@@ -19,7 +19,7 @@ youtube_code: ofj5W9cEL08
 
 {% include excerpt.html %}
 
-<center><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1i5UGthuZSzgnDD7-m9fX4QVH-mL5IJjt/view"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
 
 Today I’m going to share with you the three must-haves of building a profitable repeat and referral business. You’re going to need the right mindset, a robust CRM, and a plan of action, but let’s talk about each in turn:
 
