@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  How You Can Build a Repeat and Referral BusinessHow You Can Build a Repeat and
-  Referral Business
+title: How You Can Build a Repeat and Referral Business
 date: 2022-03-04 00:00:00
 tags:
   - Reviews and Referrals
@@ -37,4 +35,6 @@ You need to have a robust CRM that can integrate with the MLS, run campaigns, ma
 
 I hope these three points helped you. If you have any questions, feel free to call or email me. I would love to hear from you.
 
-<center><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1i5UGthuZSzgnDD7-m9fX4QVH-mL5IJjt/view"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
+
+<center>&nbsp;</center>
