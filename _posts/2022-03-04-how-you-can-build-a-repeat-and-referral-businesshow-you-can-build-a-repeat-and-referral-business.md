@@ -17,7 +17,7 @@ youtube_code: ofj5W9cEL08
 
 {% include excerpt.html %}
 
-<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
 
 Today I’m going to share with you the three must-haves of building a profitable repeat and referral business. You’re going to need the right mindset, a robust CRM, and a plan of action, but let’s talk about each in turn:
 
@@ -35,6 +35,6 @@ You need to have a robust CRM that can integrate with the MLS, run campaigns, ma
 
 I hope these three points helped you. If you have any questions, feel free to call or email me. I would love to hear from you.
 
-<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
+<center><a target="_blank" rel="noopener" href="https://join.https://join.gochicagolandhomes.com/ask/https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a><br />​​​​​</center>
 
 <center>&nbsp;</center>
