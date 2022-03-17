@@ -5,7 +5,8 @@ date: 2022-03-04 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: The three essentials to building a profitable repeat and referral business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/How+You+Can+Build+a+Repeat+and+Referral+Business.mp4
 pullquote: The tools have changed, but the actions haven’t.
 enclosure_type: video/mp4
 enclosure_time:
