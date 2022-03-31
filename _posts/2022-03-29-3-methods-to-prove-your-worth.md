@@ -21,7 +21,7 @@ youtube_code: bBua7pz0zHI
 
 <center>&nbsp;</center>
 
-Today I'm going to share three things you need to know to maintain your commission dollars when working with competitive sellers.
+Today I'm going to share three things you need to know to maintain your commission dollars when working with competitive sellers:
 
 1. **Have a positive mindset.** It’s no secret that we have a lack of inventory. Don’t get down; look on the bright side. Instead of an inventory shortage, view it as an abundance of buyers.
 2. **Know what value you provide as an agent.** You're going to be competing, so you need to believe in your worth. I'll share some helpful hints in the [free download](https://drive.google.com/file/d/1wa628QIYaTvhNT_pgFkFkarfNHLMRz8f/view). When you’re valuable, you gain both trust and business from sellers.
