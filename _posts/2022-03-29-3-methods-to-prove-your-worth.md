@@ -5,7 +5,8 @@ date: 2022-03-29 16:56:33
 tags:
   - Lead Conversion
 excerpt: Believing in and showing your value is the most important step.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/3+Methods+To+Prove+Your+Worth.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
