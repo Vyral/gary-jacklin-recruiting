@@ -18,7 +18,7 @@ youtube_code: GH4HQu8LX5g
 
 {% include excerpt.html %}
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 &nbsp;
 
@@ -34,4 +34,4 @@ If you have these three traits but feel directionless in your real estate career
 
 The first thing every agent needs is mental strength and a reason why they’re doing what they do. If you call or email me, I can help you apply your persistence, determination, and commitment—there’s no obligation. I look forward to hearing from you.
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
