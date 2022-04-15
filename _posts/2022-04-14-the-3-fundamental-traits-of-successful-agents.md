@@ -28,7 +28,7 @@ What makes an agent successful? It’s a complicated question, but I believe the
 
 {% include pullquote.html %}
 
-The truth is that real estate is a tough business, but you probably already know that. Without these three traits, you won’t last long. However, there’s more to the picture than that. I’ve seen plenty of agents who have persistence, determination, and commitment in spades, but they still can’t seem to find success. Without the proper guidance to show you how to use these traits, you could put in a whole lot of effort and never become successful.&nbsp;
+The truth is that real estate is a tough business, but you probably already know that. Without these three traits, you won’t last long. However, there’s more to the picture than that. I’ve seen plenty of agents who have persistence, determination, and commitment in spades, but they still can’t seem to find success. Without the proper guidance on how to use these traits, you could put in a whole lot of effort and never become successful.&nbsp;
 
 If you have these three traits but feel directionless in your real estate career, please reach out to me. Don’t worry; this isn’t a recruiting call. Instead, **I want to help put you on the right path toward success.** I won’t mislead you; this isn’t a quick fix to find success. Everyone is trying to sell agents the fast, new, and easy way to find success, but the reality is that the quick and easy path doesn’t exist.&nbsp;
 
