@@ -24,7 +24,7 @@ youtube_code: GH4HQu8LX5g
 
 What makes an agent successful? It’s a complicated question, but I believe there are three fundamental traits that every successful agent has. Today I want to share them with you:&nbsp;
 
-**The three fundamental traits are persistence, determination, and commitment.** I won’t bore you by going over each one individually. Instead, I encourage you to download [this message from Calvin Coolidge](https://drive.google.com/file/d/1nvV2QVhMOPwNJsUKWuSnqz8JebQDOHJr/view) on the importance of these traits. These words spoke to me when I first started my real estate career in 1987, and I hope they have the same impact on you today.&nbsp;
+**The three fundamental traits are persistence, determination, and commitment.** I won’t bore you by going over each one individually. Instead, I encourage you to download this message from Calvin Coolidge on the importance of these traits. These words spoke to me when I first started my real estate career in 1987, and I hope they have the same impact on you today.&nbsp;
 
 {% include pullquote.html %}
 
