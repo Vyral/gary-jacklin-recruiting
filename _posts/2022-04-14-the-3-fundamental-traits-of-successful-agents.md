@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Agent Training
 excerpt: Here are three traits every agent needs to become successful.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/The+3+Fundamental+Traits+of+Successful+Agents.mp4
 pullquote: Without the proper guidance, you can put in a ton of effort and never succeed.
 enclosure_type: video/mp4
 enclosure_time:
