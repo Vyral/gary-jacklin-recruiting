@@ -5,7 +5,8 @@ date: 2022-04-28 00:00:00
 tags:
   - Transaction Management
 excerpt: In this business, everything depends on having the proper mindset.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/Creating+and+Maintaining+a+Proactive+Mindset.mp4
 pullquote: Everything is in your control when you look at things the right way.
 enclosure_type: video/mp4
 enclosure_time:
