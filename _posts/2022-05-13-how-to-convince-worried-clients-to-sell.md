@@ -19,7 +19,9 @@ youtube_code: XpTpJlMhofk
 
 <center><a href="https://join.gochicagolandhomes.com/ask/e2b982bb7c471a7d246973b1e55e625c"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
-Right now many sellers who also have to buy are dragging their feet because they’re concerned about everything currently going on with our economy, like inflation and increased interest rates. However, they’re missing the bigger picture: Real estate is the biggest hedge against inflation. Here are the three main strategies you can use to explain to sellers why now is the best time to sell their current home and buy a new one:
+<center>&nbsp;</center>
+
+Right now, many sellers who also have to buy are dragging their feet because they’re concerned about everything currently going on with our economy, like inflation and increased interest rates. However, they’re missing the bigger picture: Real estate is the best hedge against inflation. Here are the three main strategies you can use to explain to sellers why now is the best time to sell their current home and buy a new one:
 
 **1\. Put less money down.** The majority of homeowners have equity in their homes, which can help them put less money down on their next house, like 5% instead of 10% or 20%. They may have equity left over, which they can use to pay off other debts such as car loans or credit cards. The only tax-deductible interest they have is the mortgage interest.
 
@@ -27,7 +29,7 @@ Right now many sellers who also have to buy are dragging their feet because they
 
 {% include pullquote.html %}
 
-**3\. Inventory shortage.** Inventory shortages will continue for the foreseeable future. Home builders are building at a rate of one million homes per year, but the shortage is five million homes because they weren’t building enough for 13 years. So there’s no use in waiting for more homes to come onto the market because it’ll be a long time before enough are built to make much of a difference.
+**3\. Inventory shortage.** Inventory shortages will continue for the foreseeable future. Home builders are building at a rate of one million homes per year, but we are short five million homes because they weren’t building enough for 13 years. So there’s no use in waiting for more homes to come onto the market because it’ll be a long time before enough are built to make much of a difference.
 
 These three points can assist you in helping your sellers make the right decision. Remember, just as rates go up, they also come down, so remind your sellers that they can also refinance in the future.&nbsp;
 
