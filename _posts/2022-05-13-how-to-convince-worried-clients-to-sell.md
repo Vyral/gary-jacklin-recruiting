@@ -5,7 +5,8 @@ date: 2022-05-13 14:31:51
 tags:
   - Lead Generation
 excerpt: Three strategies to show worried clients that now is the time to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2022/How+To+Convince+Worried+Clients+To+Sell.mp4
 pullquote: 'Real estate is the biggest hedge against inflation. '
 enclosure_type: video/mp4
 enclosure_time:
