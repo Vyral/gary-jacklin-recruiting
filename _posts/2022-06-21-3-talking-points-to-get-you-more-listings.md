@@ -18,6 +18,8 @@ youtube_code: 3L6EspVKruk
 
 <center><a href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
+<center>&nbsp;</center>
+
 You’ve seen top-producing agents make away with listing after listing—what’s their secret? What are they saying to their sellers to encourage them to list? Today I’ll share the three main talking points you need to share with your sellers if you want to increase the number of listings you get:
 
 **1\. In any recession, property values increase.** Unlike gas, groceries, and other goods, home prices tend to rise during inflationary periods. Real estate truly is the best hedge against inflation.
