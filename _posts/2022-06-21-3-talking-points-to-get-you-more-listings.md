@@ -30,6 +30,6 @@ You’ve seen top-producing agents secure with listing after listing—what’s 
 
 **3\. Homes are still appreciating.** Home appreciation has historically been at least 6%, but some markets have seen even higher rates. If your client needs a reason to move up, think of it this way:" If they own a $250,000 home that appreciates by 20%, they've made $50,000. If they move up to a $500,000 house that appreciates by 20%, they've gained $100,000. That’s more equity for your client to use as a hedge against rising prices caused by inflation.
 
-To help you dive a little deeper into today’s topic, here are a few slides you can download to illustrate to your seller why now is such a good time to list their home. If you have any questions, don’t hesitate to call or email me. I’d love to help you.
+To help you dive a little deeper into today’s topic,&nbsp;[here are a few slides](https://drive.google.com/file/d/1Ou8G1gM1aps_YoquLNpKP7m6RUQvCysJ/view) you can download to illustrate to your seller why now is such a good time to list their home. If you have any questions, don’t hesitate to call or email me. I’d love to help you.
 
 <center><a href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
