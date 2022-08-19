@@ -19,6 +19,8 @@ youtube_code: CX8yl2sMkvM
 
 <center><a href="https://join.gochicagolandhomes.com/contact.php"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
+<center>&nbsp;</center>
+
 Many buyers are on the fence about their purchasing plans due to increasing rates and alarming real estate news. As an agent, you have to be ready to explain what’s happening in the market so you can ease some of their worries.
 
 {% include pullquote.html %}
