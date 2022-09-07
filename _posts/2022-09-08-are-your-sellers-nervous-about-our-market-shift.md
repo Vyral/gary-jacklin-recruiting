@@ -28,7 +28,7 @@ If a client is concerned about inflation, remind them that real property is one 
 
 {% include pullquote.html %}
 
-What if your client wants to wait for the economy to get better? **I’ve put together some slides that address this question;** you can check them at 1:12 in the video above. Just email me if you’d like to get your hands on them.&nbsp;
+What if your client wants to wait for the economy to get better? **[I’ve put together some slides that address this question;](https://drive.google.com/file/d/1Ou8G1gM1aps_YoquLNpKP7m6RUQvCysJ/view){: target="_blank" rel="noopener"}** you can check them at 1:12 in the video above. Just email me if you’d like to get your hands on them.&nbsp;
 
 One of the things my slides address is that demand isn’t going to crater anytime soon. As long as that is the case, property values won’t fall. Home values are a function of supply and demand, not how the economy is doing. In fact, housing prices usually stay steady or increase during a recession.&nbsp;
 
