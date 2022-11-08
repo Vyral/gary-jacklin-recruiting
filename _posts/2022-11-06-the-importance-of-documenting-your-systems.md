@@ -21,7 +21,7 @@ youtube_code: LHg-sC23Xk4
 
 &nbsp;
 
-What's your system in this shifting market? A system is just a documented way of doing something. The basic four areas that real estate agents work in that you should have systems for are lead generation, lead conversion, follow-up, and marketing. In this shifting market, I can't stress to you enough how important it is to take some time and look at what you do in each one of those areas.
+What's your system in this shifting market? A system is just a documented way of doing something. The basic four areas that real estate agents should have systems for are lead generation, lead conversion, follow-up, and marketing. In this shifting market, I can't stress to you enough how important it is to take some time and look at what you do in each one of those areas.
 
 For now, let’s look at listing, which falls under lead conversion. Let’s say you already have the lead, and your listing presentation is scheduled. **Remember that preparation is key.** We all fall into habits and have ways of doing things, but it’s important to write down what you're going to cover.&nbsp;
 
