@@ -27,7 +27,7 @@ Essentially, a 2-1 buydown is an interest rate reduction for the first two years
 
 First, **you won’t have to reduce the price because you’re lowering your buyer’s monthly payment.** Plus, you can use it as a marketing tool to help entice buyers to check out the property. This keeps money in your seller’s pocket.&nbsp;
 
-Next, it puts both the buyer and seller in a better financial position. Buyers are obviously concerned about rising interest rates, so this is a great way to get them more comfortable with making an offer. Even better than that, **2-1 buydowns will take less money out of your seller’s pocket than a price reduction.** Typically, they cost about 2.5% of the final price, which is likely way less than the tens of thousands of dollars your seller would lose in a price reduction.&nbsp;
+Next, it puts both the buyer and seller in a better financial position. Buyers are&nbsp; concerned about rising interest rates, so this is a great way to get them more comfortable with making an offer. Even better than that, **2-1 buydowns will take less money out of your seller’s pocket than a price reduction.** Typically, they cost about 2.5% of the final price, which is likely way less than the tens of thousands of dollars your seller would lose in a price reduction.&nbsp;
 
 If you have questions about how you can use 2-1 buydowns or anything else, please call or email me. I am always willing to help.&nbsp;
 
