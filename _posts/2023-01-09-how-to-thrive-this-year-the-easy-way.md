@@ -17,7 +17,7 @@ youtube_code: IhuXcd2aAqI
 
 {% include excerpt.html %}
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 Happy New Year\! Are you ready for 2023? Now is the time to take the bull by the horns and reach that next level. Here are the three things you need to thrive in 2023:
 
@@ -31,4 +31,4 @@ Happy New Year\! Are you ready for 2023? Now is the time to take the bull by the
 
 2023 offers a huge opportunity for those who have a plan. If you need any help or input, reach out to me by phone or email. I’d love to help you.
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
