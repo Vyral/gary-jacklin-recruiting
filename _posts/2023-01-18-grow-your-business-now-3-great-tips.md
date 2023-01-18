@@ -17,7 +17,7 @@ youtube_code: Q91m3H0Wdoc
 
 {% include excerpt.html %}
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 Today I will share three time-tested actions that will always get you business. Let's take a look at what these three are:
 
@@ -31,4 +31,4 @@ Today I will share three time-tested actions that will always get you business. 
 
 Again, there's not a lot of rocket science to this, but we have to be proactive, intentional, and consistent in our message. So if you need any specifics on any of that, how to do it, what technologies to use, and what services, I've got all that at my fingertips. Call, email, or text me. I’d be happy to reach out to you, and give you that information.&nbsp;
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
