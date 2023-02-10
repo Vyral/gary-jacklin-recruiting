@@ -19,7 +19,7 @@ youtube_code: Q91m3H0Wdoc
 
 <center><a href="https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
-Today I will share three time-tested actions that will always get you business. Let's take a look at what these three are:
+[Today I](file:///C:/Users/netne/Downloads/a.%20Individual%20Pages.pdf)will share three time-tested actions that will always get you business. Let's take a look at what these three are:
 
 **1\. A CMA a day.** This is so simple yet so effective. Make a call to your clients, past clients, and your sphere of influence. Explain to them your commitment, and keep them up to date on what their value is. Maybe once every this time of the year, send out just a one- or two-page but comprehensive market update. While you're at it, schedule them for automated monthly market reports. Now you need to explain this so that they know this will be coming via email. So while you've gone on the phone, confirm their email. There are numerous tools to automate this process. It’s old school meets technology because we've been doing this. I've been doing this for decades.
 
