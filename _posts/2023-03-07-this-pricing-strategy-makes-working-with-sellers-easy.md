@@ -17,7 +17,7 @@ youtube_code: '-Luk5qk3mOg'
 
 {% include excerpt.html %}
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a target="_blank" rel="noopener" href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 Have you heard of the seven-step pricing strategy? This approach is designed to help you collaborate with your seller on the best price for them.&nbsp;
 
@@ -31,4 +31,4 @@ This has many benefits over a traditional CMA. You can build rapport with your c
 
 If you would like a complete, written manual on how to use and implement this pricing strategy, click [here](https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39). You can also call or email me. I’d love to send one over to you!
 
-<center><a href="LINK"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
+<center><a href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
