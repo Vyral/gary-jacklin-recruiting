@@ -27,7 +27,7 @@ The magic behind this strategy isn’t that it is more accurate than a typical C
 
 This has many benefits over a traditional CMA. You can build rapport with your client, so they’ll be more likely to listen to your suggestions. On top of that, sellers are less likely to object to a price that they helped arrive at.&nbsp;
 
-**Adopting the seven-step strategy will take a little more time and effort on your part, but it accomplishes two important things.** First, it assures that you arrive at an appropriate price entry point for your client’s home. Second, it gives your seller a sense of ownership over the price. This means less disagreements and headaches for you, and a smoother sale for your client.&nbsp;
+**Adopting the seven-step strategy will take a little more time and effort on your part, but it accomplishes two important things.** First, it assures that you arrive at an appropriate price entry point for your client’s home. Second, it gives your seller a sense of ownership over the price. This means fewer disagreements and headaches for you, and a smoother sale for your client.&nbsp;
 
 If you would like a complete, written manual on how to use and implement this pricing strategy, click [here](https://join.gochicagolandhomes.com/ask/58d673f17df2095109c512c3c0b31a39). You can also call or email me. I’d love to send one over to you!
 
