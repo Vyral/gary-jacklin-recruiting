@@ -15,6 +15,8 @@ youtube_code:
 ---
 <center><a href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
+&nbsp;
+
 As a real estate agent, the formula to success is obvious: The more deals you close, the more money you make. The tricky question though is: How can you secure more transactions? You can try to grab more leads, but if you’re already doing everything you can in this area, your best bet is to close on more of the leads you already have. To help with this, I’m sharing three of the most common reasons why potential sellers don’t want to list their homes and how you can address their objections.&nbsp;
 
 **1\. “I don’t want to have to buy a new home when interest rates are so high.”** If your lead bought their current house at a great rate like 3%, they won’t want to give that up without a good reason. Fortunately, you can respond to this complaint by reminding your client that they don’t have to “marry” their interest rate—they can refinance. Mortgage interest rates are always changing, so even if they’re high now, they’ll likely come down in the future. If your lead isn’t afraid of interest rates, they’ll be much more willing to list their home.&nbsp;
