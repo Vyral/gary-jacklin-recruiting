@@ -13,8 +13,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
-
 <center><a href="https://join.gochicagolandhomes.com/ask/ab597613744316448f7c74a03df2d370"><img width="343" height="72" src="uploads/FreeDownloadsButton-343.png" /></a></center>
 
 As a real estate agent, the formula to success is obvious: The more deals you close, the more money you make. The tricky question though is: How can you secure more transactions? You can try to grab more leads, but if you’re already doing everything you can in this area, your best bet is to close on more of the leads you already have. To help with this, I’m sharing three of the most common reasons why potential sellers don’t want to list their homes and how you can address their objections.&nbsp;
